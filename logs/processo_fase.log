@@ -1,0 +1,816 @@
+[2018-09-13 12:21:08] [INFO]: {"tipo":"command","diario":"2234","message":"success: message: "}
+[2018-09-13 12:21:10] [INFO]: {"tipo":"parser","diario":"2234","message":"ok"}
+[2018-09-13 12:22:24] [INFO]: {"tipo":"command","diario":"2235","message":"success: message: "}
+[2018-09-13 12:22:26] [INFO]: {"tipo":"parser","diario":"2235","message":"ok"}
+[2018-09-13 12:24:51] [INFO]: {"tipo":"command","diario":"2236","message":"success: message: "}
+[2018-09-13 12:24:54] [INFO]: {"tipo":"parser","diario":"2236","message":"ok"}
+[2018-09-14 16:00:08] [INFO]: {"tipo":"command","diario":"2237","message":"success: message: "}
+[2018-09-14 16:00:11] [INFO]: {"tipo":"parser","diario":"2237","message":"ok"}
+[2018-09-14 19:18:46] [INFO]: {"tipo":"command","diario":"2238","message":"success: message: "}
+[2018-09-14 19:18:48] [INFO]: {"tipo":"parser","diario":"2238","message":"ok"}
+[2018-09-17 16:00:04] [INFO]: {"tipo":"command","diario":"2239","message":"success: message: "}
+[2018-09-17 16:00:07] [INFO]: {"tipo":"parser","diario":"2239","message":"ok"}
+[2018-09-19 15:16:38] [INFO]: {"tipo":"command","diario":"2240","message":"success: message: "}
+[2018-09-19 15:16:40] [INFO]: {"tipo":"parser","diario":"2240","message":"ok"}
+[2018-09-19 15:18:13] [INFO]: {"tipo":"command","diario":"2241","message":"success: message: "}
+[2018-09-19 15:18:15] [INFO]: {"tipo":"parser","diario":"2241","message":"ok"}
+[2018-09-24 16:00:04] [INFO]: {"tipo":"command","diario":"2242","message":"success: message: "}
+[2018-09-24 16:00:07] [INFO]: {"tipo":"parser","diario":"2242","message":"ok"}
+[2018-09-25 23:24:19] [INFO]: {"tipo":"command","diario":"2243","message":"success: message: "}
+[2018-09-25 23:24:22] [INFO]: {"tipo":"parser","diario":"2243","message":"ok"}
+[2018-09-26 19:05:37] [INFO]: {"tipo":"command","diario":"2244","message":"success: message: "}
+[2018-09-26 19:05:41] [INFO]: {"tipo":"parser","diario":"2244","message":"ok"}
+[2018-09-26 19:08:59] [INFO]: {"tipo":"command","diario":"2245","message":"success: message: "}
+[2018-09-26 19:09:03] [INFO]: {"tipo":"parser","diario":"2245","message":"ok"}
+[2018-09-26 19:11:52] [INFO]: {"tipo":"command","diario":"2246","message":"success: message: "}
+[2018-09-26 19:11:56] [INFO]: {"tipo":"parser","diario":"2246","message":"ok"}
+[2018-09-27 16:00:08] [INFO]: {"tipo":"command","diario":"2247","message":"success: message: "}
+[2018-09-27 16:00:11] [INFO]: {"tipo":"parser","diario":"2247","message":"ok"}
+[2018-10-01 18:24:57] [INFO]: {"tipo":"command","diario":"2248","message":"success: message: "}
+[2018-10-01 18:25:00] [INFO]: {"tipo":"parser","diario":"2248","message":"ok"}
+[2018-10-01 18:30:45] [INFO]: {"tipo":"command","diario":"2249","message":"success: message: "}
+[2018-10-01 18:30:49] [INFO]: {"tipo":"parser","diario":"2249","message":"ok"}
+[2018-10-03 16:00:11] [INFO]: {"tipo":"command","diario":"2250","message":"success: message: "}
+[2018-10-03 16:00:14] [INFO]: {"tipo":"parser","diario":"2250","message":"ok"}
+[2018-10-04 16:00:10] [INFO]: {"tipo":"command","diario":"2251","message":"success: message: "}
+[2018-10-04 16:00:13] [INFO]: {"tipo":"parser","diario":"2251","message":"ok"}
+[2018-10-05 16:00:08] [INFO]: {"tipo":"command","diario":"2252","message":"success: message: "}
+[2018-10-05 16:00:11] [INFO]: {"tipo":"parser","diario":"2252","message":"ok"}
+[2018-10-08 16:00:05] [INFO]: {"tipo":"command","diario":"2253","message":"success: message: "}
+[2018-10-08 16:00:08] [INFO]: {"tipo":"parser","diario":"2253","message":"ok"}
+[2018-10-09 16:00:08] [INFO]: {"tipo":"command","diario":"2254","message":"success: message: "}
+[2018-10-09 16:00:11] [INFO]: {"tipo":"parser","diario":"2254","message":"ok"}
+[2018-10-23 19:53:32] [INFO]: {"tipo":"command","diario":"2255","message":"success: message: "}
+[2018-10-23 21:12:08] [INFO]: {"tipo":"command","diario":"2255","message":"success: message: "}
+[2018-10-23 21:21:20] [INFO]: {"tipo":"command","diario":"2255","message":"success: message: "}
+[2018-10-23 21:26:13] [INFO]: {"tipo":"command","diario":"2255","message":"success: message: "}
+[2018-10-23 21:30:40] [INFO]: {"tipo":"command","diario":"2255","message":"success: message: "}
+[2018-10-23 21:32:55] [INFO]: {"tipo":"command","diario":"2255","message":"success: message: "}
+[2018-10-23 21:32:58] [INFO]: {"tipo":"parser","diario":"2255","message":"ok"}
+[2018-10-23 21:39:05] [INFO]: {"tipo":"command","diario":"2256","message":"success: message: "}
+[2018-10-23 21:39:08] [INFO]: {"tipo":"parser","diario":"2256","message":"ok"}
+[2018-10-23 21:42:03] [INFO]: {"tipo":"command","diario":"2257","message":"success: message: "}
+[2018-10-23 21:42:06] [INFO]: {"tipo":"parser","diario":"2257","message":"ok"}
+[2018-10-23 21:45:05] [INFO]: {"tipo":"command","diario":"2258","message":"success: message: "}
+[2018-10-23 21:45:08] [INFO]: {"tipo":"parser","diario":"2258","message":"ok"}
+[2018-10-23 21:48:06] [INFO]: {"tipo":"command","diario":"2259","message":"success: message: "}
+[2018-10-23 21:48:10] [INFO]: {"tipo":"parser","diario":"2259","message":"ok"}
+[2018-10-23 21:51:04] [INFO]: {"tipo":"command","diario":"2260","message":"success: message: "}
+[2018-10-23 21:51:07] [INFO]: {"tipo":"parser","diario":"2260","message":"ok"}
+[2018-10-23 21:54:05] [INFO]: {"tipo":"command","diario":"2261","message":"success: message: "}
+[2018-10-23 21:54:08] [INFO]: {"tipo":"parser","diario":"2261","message":"ok"}
+[2018-10-23 21:57:03] [INFO]: {"tipo":"command","diario":"2262","message":"success: message: "}
+[2018-10-23 21:57:06] [INFO]: {"tipo":"parser","diario":"2262","message":"ok"}
+[2018-10-23 22:09:03] [INFO]: {"tipo":"command","diario":"2263","message":"success: message: "}
+[2018-10-23 22:09:06] [INFO]: {"tipo":"parser","diario":"2263","message":"ok"}
+[2018-10-23 22:12:03] [INFO]: {"tipo":"command","diario":"2264","message":"success: message: "}
+[2018-10-23 22:12:06] [INFO]: {"tipo":"parser","diario":"2264","message":"ok"}
+[2018-10-29 12:00:07] [INFO]: {"tipo":"command","diario":"2265","message":"success: message: "}
+[2018-10-29 12:00:11] [INFO]: {"tipo":"parser","diario":"2265","message":"ok"}
+[2018-10-30 12:00:09] [INFO]: {"tipo":"command","diario":"2266","message":"success: message: "}
+[2018-10-30 12:00:12] [INFO]: {"tipo":"parser","diario":"2266","message":"ok"}
+[2018-11-01 12:00:06] [INFO]: {"tipo":"command","diario":"2267","message":"success: message: "}
+[2018-11-01 12:00:09] [INFO]: {"tipo":"parser","diario":"2267","message":"ok"}
+[2018-11-03 17:35:52] [INFO]: {"tipo":"command","diario":"2268","message":"success: message: "}
+[2018-11-03 17:35:56] [INFO]: {"tipo":"parser","diario":"2268","message":"ok"}
+[2018-11-03 17:38:23] [INFO]: {"tipo":"command","diario":"2269","message":"success: message: "}
+[2018-11-03 17:38:27] [INFO]: {"tipo":"parser","diario":"2269","message":"ok"}
+[2018-11-03 20:12:38] [INFO]: {"tipo":"command","diario":"2270","message":"success: message: "}
+[2018-11-03 20:12:42] [INFO]: {"tipo":"parser","diario":"2270","message":"ok"}
+[2018-11-05 18:45:49] [INFO]: {"tipo":"command","diario":"2271","message":"success: message: "}
+[2018-11-05 18:45:52] [INFO]: {"tipo":"parser","diario":"2271","message":"ok"}
+[2018-11-09 12:42:28] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 12:42:28] [INFO]: {"tipo":"function_parser","diario":"2272","message":null}
+[2018-11-09 12:42:28] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 12:45:48] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 12:45:48] [INFO]: {"tipo":"function_parser","diario":"2272","message":null}
+[2018-11-09 12:45:48] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 12:47:17] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 12:47:17] [INFO]: {"tipo":"function_parser","diario":"2272","message":null}
+[2018-11-09 12:47:17] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 12:47:17] [INFO]: {"tipo":"function_parser","diario":null,"message":null}
+[2018-11-09 12:51:27] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 12:51:27] [INFO]: {"tipo":"function_parser","diario":"2272","message":null}
+[2018-11-09 12:51:27] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 12:51:27] [INFO]: {"tipo":"function_parser","diario":null,"message":null}
+[2018-11-09 12:51:58] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 12:51:58] [INFO]: {"tipo":"function_parser","diario":"2272","message":null}
+[2018-11-09 12:51:58] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 12:53:28] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 12:53:28] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 12:53:40] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 12:53:40] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 12:54:17] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 12:54:17] [INFO]: {"tipo":"function_parser","diario":"2272","message":[]}
+[2018-11-09 12:54:17] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 12:54:24] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 12:54:24] [INFO]: {"tipo":"function_parser","diario":"2272","message":[]}
+[2018-11-09 12:54:24] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 12:54:47] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 12:54:47] [INFO]: {"tipo":"function_parser","diario":"2272","message":[]}
+[2018-11-09 12:54:47] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 12:54:51] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 12:54:51] [INFO]: {"tipo":"function_parser","diario":"2272","message":[]}
+[2018-11-09 12:54:51] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 12:58:34] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 12:58:34] [INFO]: {"tipo":"function_parser","diario":"2272","message":[]}
+[2018-11-09 12:58:34] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:18:24] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:18:24] [INFO]: {"tipo":"function_parser","diario":"2272","message":[]}
+[2018-11-09 18:18:24] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:19:24] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:19:24] [INFO]: {"tipo":"function_parser","diario":"2272","message":[]}
+[2018-11-09 18:19:24] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:19:33] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:19:33] [INFO]: {"tipo":"function_parser","diario":"2272","message":[]}
+[2018-11-09 18:19:33] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:19:33] [INFO]: {"tipo":"function_parser","diario":null,"message":[]}
+[2018-11-09 18:19:36] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:19:36] [INFO]: {"tipo":"function_parser","diario":"2272","message":[]}
+[2018-11-09 18:19:36] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:19:36] [INFO]: {"tipo":"function_parser","diario":null,"message":[]}
+[2018-11-09 18:22:05] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:22:05] [INFO]: {"tipo":"function_parser","diario":"2272","message":[]}
+[2018-11-09 18:22:05] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:22:05] [INFO]: {"tipo":"function_parser","diario":null,"message":[]}
+[2018-11-09 18:22:28] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:22:28] [INFO]: {"tipo":"function_parser","diario":"2272","message":[]}
+[2018-11-09 18:22:28] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:22:28] [INFO]: {"tipo":"function_parser","diario":null,"message":[]}
+[2018-11-09 18:23:08] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:23:08] [INFO]: {"tipo":"function_parser","diario":"2272","message":[]}
+[2018-11-09 18:23:08] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:23:08] [INFO]: {"tipo":"function_parser","diario":null,"message":[]}
+[2018-11-09 18:23:19] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:23:19] [INFO]: {"tipo":"function_parser","diario":"2272","message":[]}
+[2018-11-09 18:23:19] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:23:19] [INFO]: {"tipo":"function_parser","diario":2272,"message":[]}
+[2018-11-09 18:24:28] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:24:28] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:24:28] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:24:28] [INFO]: {"tipo":"function_parser","diario":2272,"message":"sem pdfs para phaser"}
+[2018-11-09 18:25:11] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:25:11] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:25:11] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:25:11] [INFO]: {"tipo":"function_parser","diario":2272,"message":"sem pdfs para phaser"}
+[2018-11-09 18:25:44] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:25:44] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:25:44] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:25:44] [INFO]: {"tipo":"function_parser","diario":2272,"message":"sem pdfs para phaser"}
+[2018-11-09 18:26:02] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:26:02] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:26:02] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:26:02] [INFO]: {"tipo":"function_parser","diario":2272,"message":"sem pdfs para phaser"}
+[2018-11-09 18:26:24] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:26:24] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:26:24] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:26:24] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:26:28] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:26:28] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:26:28] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:26:28] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:27:12] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:27:12] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:27:12] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:27:12] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:28:07] [INFO]: {"tipo":"command","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:28:07] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:28:07] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:28:07] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:30:05] [INFO]: {"tipo":"command-link","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:30:05] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:30:05] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:30:05] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:30:54] [INFO]: {"tipo":"command-link","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:30:54] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:30:54] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:31:11] [INFO]: {"tipo":"command-link","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:31:11] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:31:11] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:31:32] [INFO]: {"tipo":"command-link","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:31:32] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:31:32] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:32:04] [INFO]: {"tipo":"command-link","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:32:04] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:32:04] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:36:01] [INFO]: {"tipo":"command-link","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:36:01] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:36:01] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:36:52] [INFO]: {"tipo":"command-link","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:36:52] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:36:52] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:39:17] [INFO]: {"tipo":"command-link","diario":"2272","message":"error: sh: \/usr\/bin\/pdftk: No such file or directory127"}
+[2018-11-09 18:39:17] [INFO]: {"tipo":"function_parser","diario":"2272","message":"sem pdfs para phaser"}
+[2018-11-09 18:39:17] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 18:50:38] [INFO]: {"tipo":"command-link","diario":"2272","message":"success: message: "}
+[2018-11-09 18:54:48] [INFO]: {"tipo":"command-link","diario":"2272","message":"success: message: "}
+[2018-11-09 19:01:37] [INFO]: {"tipo":"command-link","diario":"2272","message":"success: message: "}
+[2018-11-09 19:49:03] [INFO]: {"tipo":"command-link","diario":"2272","message":"success: message: "}
+[2018-11-09 20:06:34] [INFO]: {"tipo":"command-link","diario":"2272","message":"success: message: "}
+[2018-11-09 20:06:38] [INFO]: {"tipo":"parser","diario":"2272","message":"ok"}
+[2018-11-09 20:09:07] [INFO]: {"tipo":"command-link","diario":"2273","message":"success: message: "}
+[2018-11-09 20:09:11] [INFO]: {"tipo":"parser","diario":"2273","message":"ok"}
+[2018-11-09 20:11:17] [INFO]: {"tipo":"command-link","diario":"2274","message":"success: message: "}
+[2018-11-09 20:11:20] [INFO]: {"tipo":"parser","diario":"2274","message":"ok"}
+[2018-11-09 20:13:35] [INFO]: {"tipo":"command-link","diario":"2275","message":"success: message: "}
+[2018-11-09 20:13:38] [INFO]: {"tipo":"parser","diario":"2275","message":"ok"}
+[2018-11-13 10:00:13] [INFO]: {"tipo":"command-link","diario":"2276","message":"success: message: Error: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/2018005139439-SGOC_CPL_ExtratoAtaSessao_Ed.067-2018.pdf\n   Skipping.\nError: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/2018005128832-diretoria_geral_-_portaria_n._2826-2018.pdf\n   Skipping.\nError: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/2018005129013-65PJ_Goiania_Decis_o_n__923-__2018_-_MARIA_ALVES_DAS_DORES_E_SOUZA_-_201800322916-__CATS_FAV._e_SES_negou.pdf\n   Skipping."}
+[2018-11-15 11:48:49] [INFO]: {"tipo":"command-link","diario":"2276","message":"success: message: "}
+[2018-11-15 11:48:54] [INFO]: {"tipo":"parser","diario":"2276","message":"ok"}
+[2018-11-15 11:50:14] [INFO]: {"tipo":"command-link","diario":"2277","message":"success: message: "}
+[2018-11-15 11:50:18] [INFO]: {"tipo":"parser","diario":"2277","message":"ok"}
+[2018-11-15 11:51:13] [INFO]: {"tipo":"command-link","diario":"2278","message":"success: message: "}
+[2018-11-15 11:51:15] [INFO]: {"tipo":"parser","diario":"2278","message":"ok"}
+[2018-11-19 12:53:04] [INFO]: {"tipo":"command-link","diario":"2279","message":"success: message: "}
+[2018-11-19 12:53:07] [INFO]: {"tipo":"parser","diario":"2279","message":"ok"}
+[2018-11-21 06:21:52] [INFO]: {"tipo":"command-link","diario":"2280","message":"success: message: "}
+[2018-11-21 06:21:54] [INFO]: {"tipo":"parser","diario":"2280","message":"ok"}
+[2018-11-21 10:00:04] [INFO]: {"tipo":"command-link","diario":"2281","message":"success: message: "}
+[2018-11-21 10:00:06] [INFO]: {"tipo":"parser","diario":"2281","message":"ok"}
+[2018-11-22 20:20:04] [INFO]: {"tipo":"command-link","diario":"2282","message":"success: message: "}
+[2018-11-22 20:20:07] [INFO]: {"tipo":"parser","diario":"2282","message":"ok"}
+[2018-11-23 10:00:08] [INFO]: {"tipo":"command-link","diario":"2283","message":"success: message: "}
+[2018-11-23 10:00:10] [INFO]: {"tipo":"parser","diario":"2283","message":"ok"}
+[2018-11-27 08:46:52] [INFO]: {"tipo":"command-link","diario":"2284","message":"success: message: "}
+[2018-11-27 08:46:55] [INFO]: {"tipo":"parser","diario":"2284","message":"ok"}
+[2018-11-29 09:13:35] [INFO]: {"tipo":"command-link","diario":"2285","message":"success: message: "}
+[2018-11-29 09:13:38] [INFO]: {"tipo":"parser","diario":"2285","message":"ok"}
+[2018-11-29 09:39:42] [INFO]: {"tipo":"command-link","diario":"2286","message":"success: message: "}
+[2018-11-29 09:39:45] [INFO]: {"tipo":"parser","diario":"2286","message":"ok"}
+[2018-11-29 10:00:07] [INFO]: {"tipo":"command-link","diario":"2287","message":"success: message: "}
+[2018-11-29 10:00:13] [INFO]: {"tipo":"parser","diario":"2287","message":"ok"}
+[2018-12-03 09:00:19] [INFO]: {"tipo":"command-link","diario":"2288","message":"success: message: "}
+[2018-12-03 09:00:25] [INFO]: {"tipo":"parser","diario":"2288","message":"ok"}
+[2018-12-03 09:06:10] [INFO]: {"tipo":"command-link","diario":"2289","message":"success: message: "}
+[2018-12-03 09:06:12] [INFO]: {"tipo":"parser","diario":"2289","message":"ok"}
+[2018-12-07 12:43:47] [INFO]: {"tipo":"command-link","diario":"2290","message":"success: message: "}
+[2018-12-07 12:43:50] [INFO]: {"tipo":"parser","diario":"2290","message":"ok"}
+[2018-12-07 12:50:52] [INFO]: {"tipo":"command-link","diario":"2291","message":"success: message: "}
+[2018-12-07 12:50:55] [INFO]: {"tipo":"parser","diario":"2291","message":"ok"}
+[2018-12-07 12:58:03] [INFO]: {"tipo":"command-link","diario":"2292","message":"success: message: "}
+[2018-12-07 12:58:06] [INFO]: {"tipo":"parser","diario":"2292","message":"ok"}
+[2018-12-11 11:30:19] [INFO]: {"tipo":"command-link","diario":"2293","message":"success: message: "}
+[2018-12-11 11:30:23] [INFO]: {"tipo":"parser","diario":"2293","message":"ok"}
+[2018-12-11 11:51:10] [INFO]: {"tipo":"command-link","diario":"2294","message":"success: message: "}
+[2018-12-11 11:51:15] [INFO]: {"tipo":"parser","diario":"2294","message":"ok"}
+[2018-12-11 11:52:28] [INFO]: {"tipo":"command-link","diario":"2295","message":"success: message: "}
+[2018-12-11 11:52:31] [INFO]: {"tipo":"parser","diario":"2295","message":"ok"}
+[2018-12-12 10:00:08] [INFO]: {"tipo":"command-link","diario":"2296","message":"success: message: "}
+[2018-12-12 10:00:11] [INFO]: {"tipo":"parser","diario":"2296","message":"ok"}
+[2018-12-13 09:23:20] [INFO]: {"tipo":"command-link","diario":"2297","message":"success: message: "}
+[2018-12-13 09:23:23] [INFO]: {"tipo":"parser","diario":"2297","message":"ok"}
+[2018-12-21 10:00:06] [INFO]: {"tipo":"command-link","diario":"2298","message":"success: message: "}
+[2018-12-21 10:00:08] [INFO]: {"tipo":"parser","diario":"2298","message":"ok"}
+[2018-12-24 19:08:25] [INFO]: {"tipo":"command-link","diario":"2299","message":"success: message: "}
+[2018-12-24 19:08:28] [INFO]: {"tipo":"parser","diario":"2299","message":"ok"}
+[2018-12-24 19:11:43] [INFO]: {"tipo":"command-link","diario":"2300","message":"success: message: "}
+[2018-12-24 19:11:45] [INFO]: {"tipo":"parser","diario":"2300","message":"ok"}
+[2018-12-24 19:13:44] [INFO]: {"tipo":"command-link","diario":"2301","message":"success: message: "}
+[2018-12-24 19:13:47] [INFO]: {"tipo":"parser","diario":"2301","message":"ok"}
+[2018-12-24 19:15:22] [INFO]: {"tipo":"command-link","diario":"2302","message":"success: message: "}
+[2018-12-24 19:15:24] [INFO]: {"tipo":"parser","diario":"2302","message":"ok"}
+[2018-12-29 10:00:07] [INFO]: {"tipo":"command-link","diario":"2303","message":"success: message: "}
+[2018-12-29 10:00:08] [INFO]: {"tipo":"parser","diario":"2303","message":"ok"}
+[2019-01-03 10:00:08] [INFO]: {"tipo":"command-link","diario":"2304","message":"success: message: "}
+[2019-01-03 10:00:09] [INFO]: {"tipo":"parser","diario":"2304","message":"ok"}
+[2019-01-07 07:15:34] [INFO]: {"tipo":"command-link","diario":"2305","message":"success: message: "}
+[2019-01-07 07:15:37] [INFO]: {"tipo":"parser","diario":"2305","message":"ok"}
+[2019-01-07 07:22:37] [INFO]: {"tipo":"command-link","diario":"2306","message":"success: message: "}
+[2019-01-07 07:22:38] [INFO]: {"tipo":"parser","diario":"2306","message":"ok"}
+[2019-01-07 07:23:16] [INFO]: {"tipo":"command-link","diario":"2307","message":"success: message: "}
+[2019-01-07 07:23:16] [INFO]: {"tipo":"parser","diario":"2307","message":"ok"}
+[2019-01-07 07:24:46] [INFO]: {"tipo":"command-link","diario":"2308","message":"success: message: "}
+[2019-01-07 07:24:47] [INFO]: {"tipo":"parser","diario":"2308","message":"ok"}
+[2019-01-07 10:00:06] [INFO]: {"tipo":"command-link","diario":"2309","message":"success: message: "}
+[2019-01-07 10:00:07] [INFO]: {"tipo":"parser","diario":"2309","message":"ok"}
+[2019-01-09 05:46:59] [INFO]: {"tipo":"command-link","diario":"2310","message":"success: message: "}
+[2019-01-09 05:47:01] [INFO]: {"tipo":"parser","diario":"2310","message":"ok"}
+[2019-01-09 10:00:06] [INFO]: {"tipo":"command-link","diario":"2311","message":"success: message: "}
+[2019-01-09 10:00:08] [INFO]: {"tipo":"parser","diario":"2311","message":"ok"}
+[2019-01-10 10:00:07] [INFO]: {"tipo":"command-link","diario":"2312","message":"success: message: "}
+[2019-01-10 10:00:10] [INFO]: {"tipo":"parser","diario":"2312","message":"ok"}
+[2019-01-11 10:00:07] [INFO]: {"tipo":"command-link","diario":"2313","message":"success: message: "}
+[2019-01-11 10:00:10] [INFO]: {"tipo":"parser","diario":"2313","message":"ok"}
+[2019-01-15 10:00:09] [INFO]: {"tipo":"command-link","diario":"2314","message":"success: message: "}
+[2019-01-15 10:00:12] [INFO]: {"tipo":"parser","diario":"2314","message":"ok"}
+[2019-01-16 10:00:09] [INFO]: {"tipo":"command-link","diario":"2315","message":"success: message: "}
+[2019-01-16 10:00:12] [INFO]: {"tipo":"parser","diario":"2315","message":"ok"}
+[2019-01-17 10:00:07] [INFO]: {"tipo":"command-link","diario":"2316","message":"success: message: "}
+[2019-01-17 10:00:10] [INFO]: {"tipo":"parser","diario":"2316","message":"ok"}
+[2019-01-18 05:35:33] [INFO]: {"tipo":"command-link","diario":"2317","message":"success: message: "}
+[2019-01-18 05:35:36] [INFO]: {"tipo":"parser","diario":"2317","message":"ok"}
+[2019-01-18 10:00:08] [INFO]: {"tipo":"command-link","diario":"2318","message":"success: message: "}
+[2019-01-18 10:00:11] [INFO]: {"tipo":"parser","diario":"2318","message":"ok"}
+[2019-01-21 10:00:06] [INFO]: {"tipo":"command-link","diario":"2319","message":"success: message: "}
+[2019-01-21 10:00:08] [INFO]: {"tipo":"parser","diario":"2319","message":"ok"}
+[2019-01-23 10:50:45] [INFO]: {"tipo":"command-link","diario":"2320","message":"success: message: "}
+[2019-01-23 10:50:48] [INFO]: {"tipo":"parser","diario":"2320","message":"ok"}
+[2019-01-23 10:52:32] [INFO]: {"tipo":"command-link","diario":"2321","message":"success: message: "}
+[2019-01-23 10:52:34] [INFO]: {"tipo":"parser","diario":"2321","message":"ok"}
+[2019-01-24 10:00:08] [INFO]: {"tipo":"command-link","diario":"2322","message":"success: message: "}
+[2019-01-24 10:00:12] [INFO]: {"tipo":"parser","diario":"2322","message":"ok"}
+[2019-01-25 10:00:06] [INFO]: {"tipo":"command-link","diario":"2323","message":"success: message: "}
+[2019-01-25 10:00:08] [INFO]: {"tipo":"parser","diario":"2323","message":"ok"}
+[2019-01-29 08:08:07] [INFO]: {"tipo":"command-link","diario":"2324","message":"success: message: "}
+[2019-01-29 08:08:09] [INFO]: {"tipo":"parser","diario":"2324","message":"ok"}
+[2019-02-04 10:00:09] [INFO]: {"tipo":"command-link","diario":"2325","message":"success: message: Error: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/2019000351784-30pjgoiania_arquivamento_pa_n__201900028426.pdf\n   Skipping.\nError: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/2019000315594-diretoria_geral_-_portaria_n._214-2019.pdf\n   Skipping.\nError: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/2019000359867-30pjgoiania_arquivamento_pa_n__201700232659.pdf\n   Skipping.\nError: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/2019000343688-central_de_atendimento_a_-_ato_n._058-2019.pdf\n   Skipping.\nError: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/2019000063923-2pj_pires_do_rio_promocao_de_arquivamento.pdf\n   Skipping.\nError: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/2019000338519-82__PROMOTORIA_DE_JUSTI_A___ARQUIVAMENTO_201900030487.pdf\n   Skipping.\nError: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/2019000314886-central_de_atendimento_a_-_portaria_n._210-2019.pdf\n   Skipping.\nError: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/2019000313930-central_de_atendimento_a_-_portaria_n._205-2019.pdf\n   Skipping.\nError: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/2019000245455-divisao_de_administracao_-_portaria_n._177-2019.pdf\n   Skipping.\nError: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/2019000259818-divisao_de_administracao_-_portaria_n._188-2019.pdf\n   Skipping.\nError: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/2019000318504-diretoria_geral_-_portaria_n._218-2019.pdf\n   Skipping.\nError: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/2019000368605-esmp_ato_59__ratificar_ato_57__nomeacao_88__selecao.pdf\n   Skipping.\nError: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/2019000351059-30pjgoiania_arquivamento_pa_n__201800373373.pdf\n   Skipping.\nError: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/2019000328755-diretoria_geral_-_portaria_n._222-2019.pdf\n   Skipping.\nError: unable to create the file:\n   \/home\/cabox\/workspace\/domp_auto\/pdfs\/201900[2019-02-04 12:01:22] [INFO]: {"tipo":"command-link","diario":"2325","message":"success: message: "}
+[2019-02-04 12:01:26] [INFO]: {"tipo":"parser","diario":"2325","message":"ok"}
+[2019-02-04 13:26:03] [INFO]: {"tipo":"command-link","diario":"2326","message":"success: message: "}
+[2019-02-04 13:26:05] [INFO]: {"tipo":"parser","diario":"2326","message":"ok"}
+[2019-02-04 13:34:44] [INFO]: {"tipo":"command-link","diario":"2327","message":"success: message: "}
+[2019-02-04 13:34:47] [INFO]: {"tipo":"parser","diario":"2327","message":"ok"}
+[2019-02-04 13:41:20] [INFO]: {"tipo":"command-link","diario":"2328","message":"success: message: "}
+[2019-02-04 13:41:23] [INFO]: {"tipo":"parser","diario":"2328","message":"ok"}
+[2019-02-04 13:43:19] [INFO]: {"tipo":"command-link","diario":"2329","message":"success: message: "}
+[2019-02-04 13:43:22] [INFO]: {"tipo":"parser","diario":"2329","message":"ok"}
+[2019-02-05 10:00:04] [INFO]: {"tipo":"command-link","diario":"2330","message":"success: message: "}
+[2019-02-05 10:00:09] [INFO]: {"tipo":"parser","diario":"2330","message":"ok"}
+[2019-02-06 10:00:02] [INFO]: {"tipo":"command-link","diario":"2331","message":"success: message: "}
+[2019-02-06 10:00:05] [INFO]: {"tipo":"parser","diario":"2331","message":"ok"}
+[2019-02-07 10:00:06] [INFO]: {"tipo":"command-link","diario":"2332","message":"success: message: "}
+[2019-02-07 10:00:10] [INFO]: {"tipo":"parser","diario":"2332","message":"ok"}
+[2019-02-08 10:00:06] [INFO]: {"tipo":"command-link","diario":"2333","message":"success: message: "}
+[2019-02-08 10:00:10] [INFO]: {"tipo":"parser","diario":"2333","message":"ok"}
+[2019-02-11 10:00:06] [INFO]: {"tipo":"command-link","diario":"2334","message":"success: message: "}
+[2019-02-11 10:00:09] [INFO]: {"tipo":"parser","diario":"2334","message":"ok"}
+[2019-02-12 10:00:03] [INFO]: {"tipo":"command-link","diario":"2335","message":"success: message: "}
+[2019-02-12 10:00:05] [INFO]: {"tipo":"parser","diario":"2335","message":"ok"}
+[2019-02-13 10:00:06] [INFO]: {"tipo":"command-link","diario":"2336","message":"success: message: "}
+[2019-02-13 10:00:09] [INFO]: {"tipo":"parser","diario":"2336","message":"ok"}
+[2019-02-14 10:00:06] [INFO]: {"tipo":"command-link","diario":"2337","message":"success: message: "}
+[2019-02-14 10:00:10] [INFO]: {"tipo":"parser","diario":"2337","message":"ok"}
+[2019-02-15 10:00:06] [INFO]: {"tipo":"command-link","diario":"2338","message":"success: message: "}
+[2019-02-15 10:00:10] [INFO]: {"tipo":"parser","diario":"2338","message":"ok"}
+[2019-02-18 11:00:05] [INFO]: {"tipo":"command-link","diario":"2339","message":"success: message: "}
+[2019-02-18 11:00:07] [INFO]: {"tipo":"parser","diario":"2339","message":"ok"}
+[2019-02-19 11:00:05] [INFO]: {"tipo":"command-link","diario":"2340","message":"success: message: "}
+[2019-02-20 11:00:06] [INFO]: {"tipo":"command-link","diario":"2340","message":"success: message: "}
+[2019-02-21 11:00:06] [INFO]: {"tipo":"command-link","diario":"2340","message":"success: message: "}
+[2019-02-22 11:00:06] [INFO]: {"tipo":"command-link","diario":"2340","message":"success: message: "}
+[2019-02-23 11:00:05] [INFO]: {"tipo":"command-link","diario":"2340","message":"success: message: "}
+[2019-02-24 11:00:05] [INFO]: {"tipo":"command-link","diario":"2340","message":"success: message: "}
+[2019-02-25 11:00:05] [INFO]: {"tipo":"command-link","diario":"2340","message":"success: message: "}
+[2019-02-26 11:00:05] [INFO]: {"tipo":"command-link","diario":"2340","message":"success: message: "}
+[2019-02-27 11:00:05] [INFO]: {"tipo":"command-link","diario":"2340","message":"success: message: "}
+[2019-02-28 11:00:04] [INFO]: {"tipo":"command-link","diario":"2340","message":"success: message: "}
+[2019-03-01 11:00:03] [INFO]: {"tipo":"command-link","diario":"2340","message":"success: message: "}
+[2019-03-02 11:00:05] [INFO]: {"tipo":"command-link","diario":"2340","message":"success: message: "}
+[2019-04-21 11:25:57] [INFO]: {"tipo":"command-link","diario":"2376","message":"success: message: "}
+[2019-04-21 11:26:00] [INFO]: {"tipo":"parser","diario":"2376","message":"ok"}
+[2019-04-21 11:29:31] [INFO]: {"tipo":"command-link","diario":"2377","message":"success: message: "}
+[2019-04-21 11:29:35] [INFO]: {"tipo":"parser","diario":"2377","message":"ok"}
+[2019-04-21 11:31:24] [INFO]: {"tipo":"command-link","diario":"2378","message":"success: message: "}
+[2019-04-21 11:31:27] [INFO]: {"tipo":"parser","diario":"2378","message":"ok"}
+[2019-04-24 22:35:58] [INFO]: {"tipo":"command-link","diario":"2379","message":"success: message: "}
+[2019-04-24 22:36:01] [INFO]: {"tipo":"parser","diario":"2379","message":"ok"}
+[2019-04-24 22:37:48] [INFO]: {"tipo":"command-link","diario":"2380","message":"success: message: "}
+[2019-04-24 22:37:51] [INFO]: {"tipo":"parser","diario":"2380","message":"ok"}
+[2019-04-24 22:39:18] [INFO]: {"tipo":"command-link","diario":"2381","message":"success: message: "}
+[2019-04-24 22:39:21] [INFO]: {"tipo":"parser","diario":"2381","message":"ok"}
+[2019-04-25 12:00:08] [INFO]: {"tipo":"command-link","diario":"2382","message":"success: message: "}
+[2019-04-25 12:00:12] [INFO]: {"tipo":"parser","diario":"2382","message":"ok"}
+[2019-04-26 12:00:06] [INFO]: {"tipo":"command-link","diario":"2383","message":"success: message: "}
+[2019-04-26 12:00:10] [INFO]: {"tipo":"parser","diario":"2383","message":"ok"}
+[2019-04-29 12:00:06] [INFO]: {"tipo":"command-link","diario":"2384","message":"success: message: "}
+[2019-04-29 12:00:10] [INFO]: {"tipo":"parser","diario":"2384","message":"ok"}
+[2019-04-30 12:00:05] [INFO]: {"tipo":"command-link","diario":"2385","message":"success: message: "}
+[2019-04-30 12:00:09] [INFO]: {"tipo":"parser","diario":"2385","message":"ok"}
+[2019-05-02 12:00:08] [INFO]: {"tipo":"command-link","diario":"2386","message":"success: message: "}
+[2019-05-02 12:00:12] [INFO]: {"tipo":"parser","diario":"2386","message":"ok"}
+[2019-05-03 12:00:07] [INFO]: {"tipo":"command-link","diario":"2387","message":"success: message: "}
+[2019-05-03 12:00:09] [INFO]: {"tipo":"parser","diario":"2387","message":"ok"}
+[2019-05-06 12:00:07] [INFO]: {"tipo":"command-link","diario":"2388","message":"success: message: "}
+[2019-05-06 12:00:11] [INFO]: {"tipo":"parser","diario":"2388","message":"ok"}
+[2019-05-07 12:00:07] [INFO]: {"tipo":"command-link","diario":"2389","message":"success: message: "}
+[2019-05-07 12:00:11] [INFO]: {"tipo":"parser","diario":"2389","message":"ok"}
+[2019-05-08 12:00:07] [INFO]: {"tipo":"command-link","diario":"2390","message":"success: message: "}
+[2019-05-08 12:00:11] [INFO]: {"tipo":"parser","diario":"2390","message":"ok"}
+[2019-05-09 12:00:06] [INFO]: {"tipo":"command-link","diario":"2391","message":"success: message: "}
+[2019-05-09 12:00:09] [INFO]: {"tipo":"parser","diario":"2391","message":"ok"}
+[2019-05-10 12:00:08] [INFO]: {"tipo":"command-link","diario":"2392","message":"success: message: "}
+[2019-05-10 12:00:11] [INFO]: {"tipo":"parser","diario":"2392","message":"ok"}
+[2019-05-13 12:00:07] [INFO]: {"tipo":"command-link","diario":"2393","message":"success: message: "}
+[2019-05-13 12:00:09] [INFO]: {"tipo":"parser","diario":"2393","message":"ok"}
+[2019-05-14 12:00:07] [INFO]: {"tipo":"command-link","diario":"2394","message":"success: message: "}
+[2019-05-14 12:00:10] [INFO]: {"tipo":"parser","diario":"2394","message":"ok"}
+[2019-05-15 12:00:07] [INFO]: {"tipo":"command-link","diario":"2395","message":"success: message: "}
+[2019-05-15 12:00:11] [INFO]: {"tipo":"parser","diario":"2395","message":"ok"}
+[2019-05-16 12:00:07] [INFO]: {"tipo":"command-link","diario":"2396","message":"success: message: "}
+[2019-05-16 12:00:11] [INFO]: {"tipo":"parser","diario":"2396","message":"ok"}
+[2019-05-17 12:00:07] [INFO]: {"tipo":"command-link","diario":"2397","message":"success: message: "}
+[2019-05-17 12:00:11] [INFO]: {"tipo":"parser","diario":"2397","message":"ok"}
+[2019-05-20 12:00:07] [INFO]: {"tipo":"command-link","diario":"2398","message":"success: message: "}
+[2019-05-20 12:00:10] [INFO]: {"tipo":"parser","diario":"2398","message":"ok"}
+[2019-05-21 12:00:08] [INFO]: {"tipo":"command-link","diario":"2399","message":"success: message: "}
+[2019-05-21 12:00:11] [INFO]: {"tipo":"parser","diario":"2399","message":"ok"}
+[2019-05-22 12:00:07] [INFO]: {"tipo":"command-link","diario":"2400","message":"success: message: "}
+[2019-05-22 12:00:10] [INFO]: {"tipo":"parser","diario":"2400","message":"ok"}
+[2019-05-23 12:00:07] [INFO]: {"tipo":"command-link","diario":"2401","message":"success: message: "}
+[2019-05-23 12:00:11] [INFO]: {"tipo":"parser","diario":"2401","message":"ok"}
+[2019-05-27 12:00:07] [INFO]: {"tipo":"command-link","diario":"2402","message":"success: message: "}
+[2019-05-27 12:00:10] [INFO]: {"tipo":"parser","diario":"2402","message":"ok"}
+[2019-05-28 12:00:08] [INFO]: {"tipo":"command-link","diario":"2403","message":"success: message: "}
+[2019-05-28 12:00:14] [INFO]: {"tipo":"parser","diario":"2403","message":"ok"}
+[2019-05-29 12:00:08] [INFO]: {"tipo":"command-link","diario":"2404","message":"success: message: "}
+[2019-05-29 12:00:11] [INFO]: {"tipo":"parser","diario":"2404","message":"ok"}
+[2019-05-30 12:00:08] [INFO]: {"tipo":"command-link","diario":"2405","message":"success: message: "}
+[2019-05-30 12:00:12] [INFO]: {"tipo":"parser","diario":"2405","message":"ok"}
+[2019-05-31 12:00:08] [INFO]: {"tipo":"command-link","diario":"2406","message":"success: message: "}
+[2019-05-31 12:00:13] [INFO]: {"tipo":"parser","diario":"2406","message":"ok"}
+[2019-06-03 12:00:07] [INFO]: {"tipo":"command-link","diario":"2407","message":"success: message: "}
+[2019-06-03 12:00:10] [INFO]: {"tipo":"parser","diario":"2407","message":"ok"}
+[2019-06-04 12:00:07] [INFO]: {"tipo":"command-link","diario":"2408","message":"success: message: "}
+[2019-06-04 12:00:11] [INFO]: {"tipo":"parser","diario":"2408","message":"ok"}
+[2019-06-05 12:00:07] [INFO]: {"tipo":"command-link","diario":"2409","message":"success: message: "}
+[2019-06-05 12:00:11] [INFO]: {"tipo":"parser","diario":"2409","message":"ok"}
+[2019-06-06 12:00:07] [INFO]: {"tipo":"command-link","diario":"2410","message":"success: message: "}
+[2019-06-06 12:00:10] [INFO]: {"tipo":"parser","diario":"2410","message":"ok"}
+[2019-06-07 12:00:09] [INFO]: {"tipo":"command-link","diario":"2411","message":"success: message: "}
+[2019-06-07 12:00:15] [INFO]: {"tipo":"parser","diario":"2411","message":"ok"}
+[2019-06-10 12:00:07] [INFO]: {"tipo":"command-link","diario":"2412","message":"success: message: "}
+[2019-06-10 12:00:10] [INFO]: {"tipo":"parser","diario":"2412","message":"ok"}
+[2019-06-11 12:00:06] [INFO]: {"tipo":"command-link","diario":"2413","message":"success: message: "}
+[2019-06-11 12:00:08] [INFO]: {"tipo":"parser","diario":"2413","message":"ok"}
+[2019-06-12 12:00:07] [INFO]: {"tipo":"command-link","diario":"2414","message":"success: message: "}
+[2019-06-12 12:00:10] [INFO]: {"tipo":"parser","diario":"2414","message":"ok"}
+[2019-06-13 12:00:06] [INFO]: {"tipo":"command-link","diario":"2415","message":"success: message: "}
+[2019-06-13 12:00:09] [INFO]: {"tipo":"parser","diario":"2415","message":"ok"}
+[2019-06-14 12:00:08] [INFO]: {"tipo":"command-link","diario":"2416","message":"success: message: "}
+[2019-06-14 12:00:11] [INFO]: {"tipo":"parser","diario":"2416","message":"ok"}
+[2019-06-17 12:00:07] [INFO]: {"tipo":"command-link","diario":"2417","message":"success: message: "}
+[2019-06-17 12:00:10] [INFO]: {"tipo":"parser","diario":"2417","message":"ok"}
+[2019-06-18 12:00:07] [INFO]: {"tipo":"command-link","diario":"2418","message":"success: message: "}
+[2019-06-18 12:00:10] [INFO]: {"tipo":"parser","diario":"2418","message":"ok"}
+[2019-06-19 12:00:07] [INFO]: {"tipo":"command-link","diario":"2419","message":"success: message: "}
+[2019-06-19 12:00:12] [INFO]: {"tipo":"parser","diario":"2419","message":"ok"}
+[2019-06-24 12:00:05] [INFO]: {"tipo":"command-link","diario":"2420","message":"success: message: "}
+[2019-06-24 12:00:10] [INFO]: {"tipo":"parser","diario":"2420","message":"ok"}
+[2019-06-25 12:00:07] [INFO]: {"tipo":"command-link","diario":"2421","message":"success: message: "}
+[2019-06-25 12:00:11] [INFO]: {"tipo":"parser","diario":"2421","message":"ok"}
+[2019-06-26 12:00:08] [INFO]: {"tipo":"command-link","diario":"2422","message":"success: message: "}
+[2019-06-26 12:00:13] [INFO]: {"tipo":"parser","diario":"2422","message":"ok"}
+[2019-06-27 12:00:13] [INFO]: {"tipo":"command-link","diario":"2423","message":"success: message: "}
+[2019-06-27 12:00:21] [INFO]: {"tipo":"parser","diario":"2423","message":"ok"}
+[2019-06-28 12:00:16] [INFO]: {"tipo":"command-link","diario":"2424","message":"success: message: "}
+[2019-06-28 12:00:20] [INFO]: {"tipo":"parser","diario":"2424","message":"ok"}
+[2019-07-01 12:00:08] [INFO]: {"tipo":"command-link","diario":"2425","message":"success: message: "}
+[2019-07-01 12:00:13] [INFO]: {"tipo":"parser","diario":"2425","message":"ok"}
+[2019-07-02 12:00:07] [INFO]: {"tipo":"command-link","diario":"2426","message":"success: message: "}
+[2019-07-02 12:00:09] [INFO]: {"tipo":"parser","diario":"2426","message":"ok"}
+[2019-07-03 12:00:08] [INFO]: {"tipo":"command-link","diario":"2427","message":"success: message: "}
+[2019-07-03 12:00:12] [INFO]: {"tipo":"parser","diario":"2427","message":"ok"}
+[2019-07-04 12:00:09] [INFO]: {"tipo":"command-link","diario":"2428","message":"success: message: "}
+[2019-07-04 12:00:13] [INFO]: {"tipo":"parser","diario":"2428","message":"ok"}
+[2019-07-05 12:00:07] [INFO]: {"tipo":"command-link","diario":"2429","message":"success: message: "}
+[2019-07-05 12:00:10] [INFO]: {"tipo":"parser","diario":"2429","message":"ok"}
+[2019-07-08 12:00:10] [INFO]: {"tipo":"command-link","diario":"2430","message":"success: message: "}
+[2019-07-08 12:00:13] [INFO]: {"tipo":"parser","diario":"2430","message":"ok"}
+[2019-07-09 12:00:09] [INFO]: {"tipo":"command-link","diario":"2431","message":"success: message: "}
+[2019-07-09 12:00:12] [INFO]: {"tipo":"parser","diario":"2431","message":"ok"}
+[2019-07-10 12:00:10] [INFO]: {"tipo":"command-link","diario":"2432","message":"success: message: "}
+[2019-07-10 12:00:13] [INFO]: {"tipo":"parser","diario":"2432","message":"ok"}
+[2019-07-11 12:00:27] [INFO]: {"tipo":"command-link","diario":"2433","message":"success: message: "}
+[2019-07-11 12:01:39] [INFO]: {"tipo":"parser","diario":"2433","message":"ok"}
+[2019-07-12 12:00:09] [INFO]: {"tipo":"command-link","diario":"2434","message":"success: message: "}
+[2019-07-12 12:00:12] [INFO]: {"tipo":"parser","diario":"2434","message":"ok"}
+[2019-07-16 12:00:10] [INFO]: {"tipo":"command-link","diario":"2435","message":"success: message: "}
+[2019-07-16 12:00:13] [INFO]: {"tipo":"parser","diario":"2435","message":"ok"}
+[2019-07-17 12:00:09] [INFO]: {"tipo":"command-link","diario":"2436","message":"success: message: "}
+[2019-07-17 12:00:12] [INFO]: {"tipo":"parser","diario":"2436","message":"ok"}
+[2019-07-18 12:00:10] [INFO]: {"tipo":"command-link","diario":"2437","message":"success: message: "}
+[2019-07-18 12:00:13] [INFO]: {"tipo":"parser","diario":"2437","message":"ok"}
+[2019-07-19 12:00:09] [INFO]: {"tipo":"command-link","diario":"2438","message":"success: message: "}
+[2019-07-19 12:00:11] [INFO]: {"tipo":"parser","diario":"2438","message":"ok"}
+[2019-07-20 12:00:08] [INFO]: {"tipo":"command-link","diario":"2439","message":"success: message: "}
+[2019-07-20 12:00:11] [INFO]: {"tipo":"parser","diario":"2439","message":"ok"}
+[2019-07-23 12:00:10] [INFO]: {"tipo":"command-link","diario":"2440","message":"success: message: "}
+[2019-07-23 12:00:13] [INFO]: {"tipo":"parser","diario":"2440","message":"ok"}
+[2019-07-24 12:00:10] [INFO]: {"tipo":"command-link","diario":"2441","message":"success: message: "}
+[2019-07-24 12:00:12] [INFO]: {"tipo":"parser","diario":"2441","message":"ok"}
+[2019-07-25 12:00:12] [INFO]: {"tipo":"command-link","diario":"2442","message":"success: message: "}
+[2019-07-25 12:00:16] [INFO]: {"tipo":"parser","diario":"2442","message":"ok"}
+[2019-07-26 12:00:11] [INFO]: {"tipo":"command-link","diario":"2443","message":"success: message: "}
+[2019-07-26 12:00:15] [INFO]: {"tipo":"parser","diario":"2443","message":"ok"}
+[2019-07-29 12:00:22] [INFO]: {"tipo":"command-link","diario":"2444","message":"success: message: "}
+[2019-07-29 12:00:26] [INFO]: {"tipo":"parser","diario":"2444","message":"ok"}
+[2019-07-30 12:00:06] [INFO]: {"tipo":"command-link","diario":"2445","message":"success: message: "}
+[2019-07-30 12:00:09] [INFO]: {"tipo":"parser","diario":"2445","message":"ok"}
+[2019-07-31 12:00:11] [INFO]: {"tipo":"command-link","diario":"2446","message":"success: message: "}
+[2019-07-31 12:00:14] [INFO]: {"tipo":"parser","diario":"2446","message":"ok"}
+[2019-08-01 12:00:10] [INFO]: {"tipo":"command-link","diario":"2447","message":"success: message: "}
+[2019-08-01 12:00:15] [INFO]: {"tipo":"parser","diario":"2447","message":"ok"}
+[2019-08-02 12:00:09] [INFO]: {"tipo":"command-link","diario":"2448","message":"success: message: "}
+[2019-08-02 12:00:14] [INFO]: {"tipo":"parser","diario":"2448","message":"ok"}
+[2019-08-05 12:00:07] [INFO]: {"tipo":"command-link","diario":"2449","message":"success: message: "}
+[2019-08-05 12:00:10] [INFO]: {"tipo":"parser","diario":"2449","message":"ok"}
+[2019-08-06 12:00:07] [INFO]: {"tipo":"command-link","diario":"2450","message":"success: message: "}
+[2019-08-06 12:00:10] [INFO]: {"tipo":"parser","diario":"2450","message":"ok"}
+[2019-08-07 12:00:10] [INFO]: {"tipo":"command-link","diario":"2451","message":"success: message: "}
+[2019-08-07 12:00:19] [INFO]: {"tipo":"parser","diario":"2451","message":"ok"}
+[2019-08-08 12:00:11] [INFO]: {"tipo":"command-link","diario":"2452","message":"success: message: "}
+[2019-08-08 12:00:22] [INFO]: {"tipo":"parser","diario":"2452","message":"ok"}
+[2019-08-09 12:00:13] [INFO]: {"tipo":"command-link","diario":"2453","message":"success: message: "}
+[2019-08-10 12:00:12] [INFO]: {"tipo":"command-link","diario":"2453","message":"success: message: "}
+[2019-08-10 12:00:27] [INFO]: {"tipo":"parser","diario":"2453","message":"ok"}
+[2019-08-12 12:00:12] [INFO]: {"tipo":"command-link","diario":"2454","message":"success: message: "}
+[2019-08-12 12:00:22] [INFO]: {"tipo":"parser","diario":"2454","message":"ok"}
+[2019-08-13 12:00:10] [INFO]: {"tipo":"command-link","diario":"2455","message":"success: message: "}
+[2019-08-13 12:00:21] [INFO]: {"tipo":"parser","diario":"2455","message":"ok"}
+[2019-08-14 12:00:12] [INFO]: {"tipo":"command-link","diario":"2456","message":"success: message: "}
+[2019-08-14 12:00:22] [INFO]: {"tipo":"parser","diario":"2456","message":"ok"}
+[2019-08-15 12:00:11] [INFO]: {"tipo":"command-link","diario":"2457","message":"success: message: "}
+[2019-08-15 12:00:19] [INFO]: {"tipo":"parser","diario":"2457","message":"ok"}
+[2019-08-16 12:00:10] [INFO]: {"tipo":"command-link","diario":"2458","message":"success: message: "}
+[2019-08-16 12:00:19] [INFO]: {"tipo":"parser","diario":"2458","message":"ok"}
+[2019-08-19 12:00:11] [INFO]: {"tipo":"command-link","diario":"2459","message":"success: message: "}
+[2019-08-19 12:00:23] [INFO]: {"tipo":"parser","diario":"2459","message":"ok"}
+[2019-08-20 12:00:10] [INFO]: {"tipo":"command-link","diario":"2460","message":"success: message: "}
+[2019-08-20 12:00:20] [INFO]: {"tipo":"parser","diario":"2460","message":"ok"}
+[2019-08-21 12:00:12] [INFO]: {"tipo":"command-link","diario":"2461","message":"success: message: "}
+[2019-08-21 12:00:27] [INFO]: {"tipo":"parser","diario":"2461","message":"ok"}
+[2019-08-22 12:00:10] [INFO]: {"tipo":"command-link","diario":"2462","message":"success: message: "}
+[2019-08-22 12:00:20] [INFO]: {"tipo":"parser","diario":"2462","message":"ok"}
+[2019-08-23 12:00:10] [INFO]: {"tipo":"command-link","diario":"2463","message":"success: message: "}
+[2019-08-23 12:00:19] [INFO]: {"tipo":"parser","diario":"2463","message":"ok"}
+[2019-08-26 12:00:14] [INFO]: {"tipo":"command-link","diario":"2464","message":"success: message: "}
+[2019-08-26 12:00:33] [INFO]: {"tipo":"parser","diario":"2464","message":"ok"}
+[2019-08-27 12:00:12] [INFO]: {"tipo":"command-link","diario":"2465","message":"success: message: "}
+[2019-08-27 12:00:26] [INFO]: {"tipo":"parser","diario":"2465","message":"ok"}
+[2019-08-28 12:00:11] [INFO]: {"tipo":"command-link","diario":"2466","message":"success: message: "}
+[2019-08-28 12:00:24] [INFO]: {"tipo":"parser","diario":"2466","message":"ok"}
+[2019-08-29 12:00:12] [INFO]: {"tipo":"command-link","diario":"2467","message":"success: message: "}
+[2019-08-29 12:00:27] [INFO]: {"tipo":"parser","diario":"2467","message":"ok"}
+[2019-08-30 12:00:10] [INFO]: {"tipo":"command-link","diario":"2468","message":"success: message: "}
+[2019-08-30 12:00:20] [INFO]: {"tipo":"parser","diario":"2468","message":"ok"}
+[2019-09-02 12:00:09] [INFO]: {"tipo":"command-link","diario":"2469","message":"success: message: "}
+[2019-09-02 12:00:16] [INFO]: {"tipo":"parser","diario":"2469","message":"ok"}
+[2019-09-03 12:00:10] [INFO]: {"tipo":"command-link","diario":"2470","message":"success: message: "}
+[2019-09-03 12:00:21] [INFO]: {"tipo":"parser","diario":"2470","message":"ok"}
+[2019-09-04 12:00:10] [INFO]: {"tipo":"command-link","diario":"2471","message":"success: message: "}
+[2019-09-04 12:00:23] [INFO]: {"tipo":"parser","diario":"2471","message":"ok"}
+[2019-09-05 12:00:12] [INFO]: {"tipo":"command-link","diario":"2472","message":"success: message: "}
+[2019-09-05 12:00:25] [INFO]: {"tipo":"parser","diario":"2472","message":"ok"}
+[2019-09-06 12:00:11] [INFO]: {"tipo":"command-link","diario":"2473","message":"success: message: "}
+[2019-09-06 12:00:21] [INFO]: {"tipo":"parser","diario":"2473","message":"ok"}
+[2019-09-09 12:00:10] [INFO]: {"tipo":"command-link","diario":"2474","message":"success: message: "}
+[2019-09-09 12:00:20] [INFO]: {"tipo":"parser","diario":"2474","message":"ok"}
+[2019-09-10 12:00:09] [INFO]: {"tipo":"command-link","diario":"2475","message":"success: message: "}
+[2019-09-10 12:00:20] [INFO]: {"tipo":"parser","diario":"2475","message":"ok"}
+[2019-09-11 12:00:09] [INFO]: {"tipo":"command-link","diario":"2476","message":"success: message: "}
+[2019-09-11 12:00:21] [INFO]: {"tipo":"parser","diario":"2476","message":"ok"}
+[2019-09-12 12:00:10] [INFO]: {"tipo":"command-link","diario":"2477","message":"success: message: "}
+[2019-09-12 12:00:24] [INFO]: {"tipo":"parser","diario":"2477","message":"ok"}
+[2019-09-13 12:00:10] [INFO]: {"tipo":"command-link","diario":"2478","message":"success: message: "}
+[2019-09-13 12:00:24] [INFO]: {"tipo":"parser","diario":"2478","message":"ok"}
+[2019-09-16 12:00:10] [INFO]: {"tipo":"command-link","diario":"2479","message":"success: message: "}
+[2019-09-16 12:00:20] [INFO]: {"tipo":"parser","diario":"2479","message":"ok"}
+[2019-09-17 12:00:08] [INFO]: {"tipo":"command-link","diario":"2480","message":"success: message: "}
+[2019-09-17 12:00:17] [INFO]: {"tipo":"parser","diario":"2480","message":"ok"}
+[2019-09-18 12:00:10] [INFO]: {"tipo":"command-link","diario":"2481","message":"success: message: "}
+[2019-09-18 12:00:22] [INFO]: {"tipo":"parser","diario":"2481","message":"ok"}
+[2019-09-19 12:00:08] [INFO]: {"tipo":"command-link","diario":"2482","message":"success: message: "}
+[2019-09-19 12:00:15] [INFO]: {"tipo":"parser","diario":"2482","message":"ok"}
+[2019-09-20 12:00:10] [INFO]: {"tipo":"command-link","diario":"2483","message":"success: message: "}
+[2019-09-20 12:00:23] [INFO]: {"tipo":"parser","diario":"2483","message":"ok"}
+[2019-09-23 12:00:07] [INFO]: {"tipo":"command-link","diario":"2484","message":"success: message: "}
+[2019-09-23 12:00:14] [INFO]: {"tipo":"parser","diario":"2484","message":"ok"}
+[2019-09-24 12:00:08] [INFO]: {"tipo":"command-link","diario":"2485","message":"success: message: "}
+[2019-09-24 12:00:14] [INFO]: {"tipo":"parser","diario":"2485","message":"ok"}
+[2019-09-25 12:00:10] [INFO]: {"tipo":"command-link","diario":"2486","message":"success: message: "}
+[2019-09-25 12:00:21] [INFO]: {"tipo":"parser","diario":"2486","message":"ok"}
+[2019-09-26 12:00:09] [INFO]: {"tipo":"command-link","diario":"2487","message":"success: message: "}
+[2019-09-26 12:00:21] [INFO]: {"tipo":"parser","diario":"2487","message":"ok"}
+[2019-09-27 12:00:10] [INFO]: {"tipo":"command-link","diario":"2488","message":"success: message: "}
+[2019-09-27 12:00:22] [INFO]: {"tipo":"parser","diario":"2488","message":"ok"}
+[2019-09-30 12:00:10] [INFO]: {"tipo":"command-link","diario":"2489","message":"success: message: "}
+[2019-09-30 12:00:23] [INFO]: {"tipo":"parser","diario":"2489","message":"ok"}
+[2019-10-01 12:00:10] [INFO]: {"tipo":"command-link","diario":"2490","message":"success: message: "}
+[2019-10-01 12:00:22] [INFO]: {"tipo":"parser","diario":"2490","message":"ok"}
+[2019-10-02 12:00:08] [INFO]: {"tipo":"command-link","diario":"2491","message":"success: message: "}
+[2019-10-02 12:00:19] [INFO]: {"tipo":"parser","diario":"2491","message":"ok"}
+[2019-10-03 12:00:09] [INFO]: {"tipo":"command-link","diario":"2492","message":"success: message: "}
+[2019-10-03 12:00:25] [INFO]: {"tipo":"parser","diario":"2492","message":"ok"}
+[2019-10-04 12:00:16] [INFO]: {"tipo":"command-link","diario":"2493","message":"success: message: "}
+[2019-10-04 12:00:39] [INFO]: {"tipo":"parser","diario":"2493","message":"ok"}
+[2019-10-07 12:00:10] [INFO]: {"tipo":"command-link","diario":"2494","message":"success: message: "}
+[2019-10-07 12:00:23] [INFO]: {"tipo":"parser","diario":"2494","message":"ok"}
+[2019-10-08 12:00:10] [INFO]: {"tipo":"command-link","diario":"2495","message":"success: message: "}
+[2019-10-08 12:00:22] [INFO]: {"tipo":"parser","diario":"2495","message":"ok"}
+[2019-10-09 12:00:12] [INFO]: {"tipo":"command-link","diario":"2496","message":"success: message: "}
+[2019-10-09 12:00:28] [INFO]: {"tipo":"parser","diario":"2496","message":"ok"}
+[2019-10-10 12:00:09] [INFO]: {"tipo":"command-link","diario":"2497","message":"success: message: "}
+[2019-10-10 12:00:20] [INFO]: {"tipo":"parser","diario":"2497","message":"ok"}
+[2019-10-11 12:00:11] [INFO]: {"tipo":"command-link","diario":"2498","message":"success: message: "}
+[2019-10-11 12:00:23] [INFO]: {"tipo":"parser","diario":"2498","message":"ok"}
+[2019-10-14 12:00:11] [INFO]: {"tipo":"command-link","diario":"2499","message":"success: message: "}
+[2019-10-14 12:00:24] [INFO]: {"tipo":"parser","diario":"2499","message":"ok"}
+[2019-10-15 12:00:09] [INFO]: {"tipo":"command-link","diario":"2500","message":"success: message: "}
+[2019-10-15 12:00:19] [INFO]: {"tipo":"parser","diario":"2500","message":"ok"}
+[2019-10-16 12:00:09] [INFO]: {"tipo":"command-link","diario":"2501","message":"success: message: "}
+[2019-10-16 12:00:21] [INFO]: {"tipo":"parser","diario":"2501","message":"ok"}
+[2019-10-17 12:00:09] [INFO]: {"tipo":"command-link","diario":"2502","message":"success: message: "}
+[2019-10-17 12:00:17] [INFO]: {"tipo":"parser","diario":"2502","message":"ok"}
+[2019-10-18 12:00:06] [INFO]: {"tipo":"command-link","diario":"2503","message":"success: message: "}
+[2019-10-18 12:00:11] [INFO]: {"tipo":"parser","diario":"2503","message":"ok"}
+[2019-10-21 12:00:06] [INFO]: {"tipo":"command-link","diario":"2504","message":"success: message: "}
+[2019-10-21 12:00:11] [INFO]: {"tipo":"parser","diario":"2504","message":"ok"}
+[2019-10-22 12:00:07] [INFO]: {"tipo":"command-link","diario":"2505","message":"success: message: "}
+[2019-10-22 12:00:13] [INFO]: {"tipo":"parser","diario":"2505","message":"ok"}
+[2019-10-24 12:00:07] [INFO]: {"tipo":"command-link","diario":"2506","message":"success: message: "}
+[2019-10-24 12:00:15] [INFO]: {"tipo":"parser","diario":"2506","message":"ok"}
+[2019-11-16 11:00:07] [INFO]: {"tipo":"command-link","diario":"2507","message":"success: message: "}
+[2019-11-16 11:00:15] [INFO]: {"tipo":"parser","diario":"2507","message":"ok"}
+[2019-11-17 11:00:07] [INFO]: {"tipo":"command-link","diario":"2508","message":"success: message: "}
+[2019-11-17 11:00:15] [INFO]: {"tipo":"parser","diario":"2508","message":"ok"}
+[2019-11-18 11:00:06] [INFO]: {"tipo":"command-link","diario":"2509","message":"success: message: "}
+[2019-11-18 11:00:17] [INFO]: {"tipo":"parser","diario":"2509","message":"ok"}
+[2019-11-19 11:00:10] [INFO]: {"tipo":"command-link","diario":"2510","message":"success: message: "}
+[2019-11-19 11:00:19] [INFO]: {"tipo":"parser","diario":"2510","message":"ok"}
+[2019-11-19 20:59:55] [INFO]: {"tipo":"command-link","diario":"2511","message":"success: message: "}
+[2019-11-19 21:00:04] [INFO]: {"tipo":"parser","diario":"2511","message":"ok"}
+[2019-11-19 21:24:31] [INFO]: {"tipo":"command-link","diario":"2512","message":"success: message: "}
+[2019-11-19 21:24:37] [INFO]: {"tipo":"parser","diario":"2512","message":"ok"}
+[2019-11-19 21:43:57] [INFO]: {"tipo":"command-link","diario":"2513","message":"success: message: "}
+[2019-11-19 21:44:02] [INFO]: {"tipo":"parser","diario":"2513","message":"ok"}
+[2019-11-19 21:48:22] [INFO]: {"tipo":"command-link","diario":"2514","message":"success: message: "}
+[2019-11-19 21:48:29] [INFO]: {"tipo":"parser","diario":"2514","message":"ok"}
+[2019-11-19 22:00:40] [INFO]: {"tipo":"command-link","diario":"2515","message":"success: message: "}
+[2019-11-19 22:00:52] [INFO]: {"tipo":"parser","diario":"2515","message":"ok"}
+[2019-11-19 22:35:45] [INFO]: {"tipo":"command-link","diario":"2516","message":"success: message: "}
+[2019-11-19 22:35:55] [INFO]: {"tipo":"parser","diario":"2516","message":"ok"}
+[2019-11-19 22:37:31] [INFO]: {"tipo":"command-link","diario":"2517","message":"success: message: "}
+[2019-11-19 22:37:39] [INFO]: {"tipo":"parser","diario":"2517","message":"ok"}
+[2019-11-19 22:43:12] [INFO]: {"tipo":"command-link","diario":"2518","message":"success: message: "}
+[2019-11-19 22:43:21] [INFO]: {"tipo":"parser","diario":"2518","message":"ok"}
+[2019-11-19 22:46:16] [INFO]: {"tipo":"command-link","diario":"2519","message":"success: message: "}
+[2019-11-19 22:46:25] [INFO]: {"tipo":"parser","diario":"2519","message":"ok"}
+[2019-11-19 22:52:03] [INFO]: {"tipo":"command-link","diario":"2520","message":"success: message: "}
+[2019-11-19 22:52:20] [INFO]: {"tipo":"parser","diario":"2520","message":"ok"}
+[2019-11-19 22:57:36] [INFO]: {"tipo":"command-link","diario":"2521","message":"success: message: "}
+[2019-11-19 22:57:44] [INFO]: {"tipo":"parser","diario":"2521","message":"ok"}
+[2019-11-19 23:11:50] [INFO]: {"tipo":"command-link","diario":"2520","message":"success: message: "}
+[2019-11-19 23:12:07] [INFO]: {"tipo":"parser","diario":"2520","message":"ok"}
+[2019-11-19 23:26:02] [INFO]: {"tipo":"command-link","diario":"2521","message":"success: message: "}
+[2019-11-19 23:26:11] [INFO]: {"tipo":"parser","diario":"2521","message":"ok"}
+[2019-11-19 23:30:05] [INFO]: {"tipo":"command-link","diario":"2521","message":"success: message: "}
+[2019-11-19 23:30:13] [INFO]: {"tipo":"parser","diario":"2521","message":"ok"}
+[2019-11-19 23:33:58] [INFO]: {"tipo":"command-link","diario":"2521","message":"success: message: "}
+[2019-11-19 23:34:06] [INFO]: {"tipo":"parser","diario":"2521","message":"ok"}
+[2019-11-19 23:37:06] [INFO]: {"tipo":"command-link","diario":"2521","message":"success: message: "}
+[2019-11-19 23:37:15] [INFO]: {"tipo":"parser","diario":"2521","message":"ok"}
+[2019-11-19 23:49:10] [INFO]: {"tipo":"command-link","diario":"2521","message":"success: message: "}
+[2019-11-19 23:49:20] [INFO]: {"tipo":"command-link","diario":"2521","message":"success: message: "}
+[2019-11-19 23:49:30] [INFO]: {"tipo":"command-link","diario":"2521","message":"success: message: "}
+[2019-11-19 23:49:41] [INFO]: {"tipo":"command-link","diario":"2521","message":"success: message: "}
+[2019-11-19 23:49:50] [INFO]: {"tipo":"command-link","diario":"2521","message":"success: message: "}
+[2019-11-19 23:49:59] [INFO]: {"tipo":"command-link","diario":"2521","message":"success: message: "}
+[2019-11-19 23:50:11] [INFO]: {"tipo":"command-link","diario":"2521","message":"success: message: "}
+[2019-11-19 23:50:17] [INFO]: {"tipo":"command-link","diario":"2521","message":"success: message: "}
+[2019-11-19 23:50:19] [INFO]: {"tipo":"command-link","diario":"2521","message":"success: message: "}
+[2019-11-19 23:50:23] [INFO]: {"tipo":"parser","diario":"2521","message":"ok"}
+[2019-11-19 23:50:30] [INFO]: {"tipo":"command-link","diario":"2521","message":"success: message: "}
+[2019-11-19 23:50:36] [INFO]: {"tipo":"command-link","diario":"2521","message":"error: Unhandled Java Exception in create_output():\njava.io.FileNotFoundException: \/home\/cabox\/workspace\/domp_auto\/pdf_domp\/domp_2521.pdf (No such file or directory)\n   at gnu.java.nio.channels.FileChannelImpl.open(natFileChannelImpl.cc:178)\n   at gnu.java.nio.channels.FileChannelImpl.<init>(FileChannelImpl.java:118)\n   at gnu.java.nio.channels.FileChannelImpl.create(FileChannelImpl.java:111)\n   at java.io.RandomAccessFile.<init>(RandomAccessFile.java:125)\n   at java.io.RandomAccessFile.<init>(RandomAccessFile.java:159)\n   at pdftk.com.lowagie.text.pdf.RandomAccessFileOrArray.reOpen(pdftk)\n   at pdftk.com.lowagie.text.pdf.PdfReader.getStreamBytes(pdftk)2"}
+[2019-11-19 23:50:36] [INFO]: {"tipo":"command-link","diario":"2521","message":"error: Unhandled Java Exception in create_output():\njava.io.FileNotFoundException: \/home\/cabox\/workspace\/domp_auto\/pdf_domp\/domp_2521.pdf (No such file or directory)\n   at gnu.java.nio.channels.FileChannelImpl.open(natFileChannelImpl.cc:178)\n   at gnu.java.nio.channels.FileChannelImpl.<init>(FileChannelImpl.java:118)\n   at gnu.java.nio.channels.FileChannelImpl.create(FileChannelImpl.java:111)\n   at java.io.RandomAccessFile.<init>(RandomAccessFile.java:125)\n   at java.io.RandomAccessFile.<init>(RandomAccessFile.java:159)\n   at pdftk.com.lowagie.text.pdf.RandomAccessFileOrArray.reOpen(pdftk)\n   at pdftk.com.lowagie.text.pdf.PdfReader.getStreamBytes(pdftk)2"}
+[2019-11-19 23:50:36] [INFO]: {"tipo":"command-link","diario":"2521","message":"error: Unhandled Java Exception in create_output():\njava.io.FileNotFoundException: \/home\/cabox\/workspace\/domp_auto\/pdf_domp\/domp_2521.pdf (No such file or directory)\n   at gnu.java.nio.channels.FileChannelImpl.open(natFileChannelImpl.cc:178)\n   at gnu.java.nio.channels.FileChannelImpl.<init>(FileChannelImpl.java:118)\n   at gnu.java.nio.channels.FileChannelImpl.create(FileChannelImpl.java:111)\n   at java.io.RandomAccessFile.<init>(RandomAccessFile.java:125)\n   at java.io.RandomAccessFile.<init>(RandomAccessFile.java:159)\n   at pdftk.com.lowagie.text.pdf.RandomAccessFileOrArray.reOpen(pdftk)\n   at pdftk.com.lowagie.text.pdf.PdfReader.getStreamBytes(pdftk)2"}
+[2019-11-19 23:50:36] [INFO]: {"tipo":"command-link","diario":"2521","message":"error: Unhandled Java Exception in create_output():\njava.io.FileNotFoundException: \/home\/cabox\/workspace\/domp_auto\/pdf_domp\/domp_2521.pdf (No such file or directory)\n   at gnu.java.nio.channels.FileChannelImpl.open(natFileChannelImpl.cc:178)\n   at gnu.java.nio.channels.FileChannelImpl.<init>(FileChannelImpl.java:118)\n   at gnu.java.nio.channels.FileChannelImpl.create(FileChannelImpl.java:111)\n   at java.io.RandomAccessFile.<init>(RandomAccessFile.java:125)\n   at java.io.RandomAccessFile.<init>(RandomAccessFile.java:159)\n   at pdftk.com.lowagie.text.pdf.RandomAccessFileOrArray.reOpen(pdftk)\n   at pdftk.com.lowagie.text.pdf.PdfReader.getStreamBytes(pdftk)2"}
+[2019-11-19 23:50:36] [INFO]: {"tipo":"command-link","diario":"2521","message":"error: Unhandled Java Exception in create_output():\njava.io.FileNotFoundException: \/home\/cabox\/workspace\/domp_auto\/pdf_domp\/domp_2521.pdf (No such file or directory)\n   at gnu.java.nio.channels.FileChannelImpl.open(natFileChannelImpl.cc:178)\n   at gnu.java.nio.channels.FileChannelImpl.<init>(FileChannelImpl.java:118)\n   at gnu.java.nio.channels.FileChannelImpl.create(FileChannelImpl.java:111)\n   at java.io.RandomAccessFile.<init>(RandomAccessFile.java:125)\n   at java.io.RandomAccessFile.<init>(RandomAccessFile.java:159)\n   at pdftk.com.lowagie.text.pdf.RandomAccessFileOrArray.reOpen(pdftk)\n   at pdftk.com.lowagie.text.pdf.PdfReader.getStreamBytes(pdftk)2"}
+[2019-11-19 23:50:37] [INFO]: {"tipo":"command-link","diario":"2521","message":"error: Unhandled Java Exception in create_output():\njava.io.FileNotFoundException: \/home\/cabox\/workspace\/domp_auto\/pdf_domp\/domp_2521.pdf (No such file or directory)\n   at gnu.java.nio.channels.FileChannelImpl.open(natFileChannelImpl.cc:178)\n   at gnu.java.nio.channels.FileChannelImpl.<init>(FileChannelImpl.java:118)\n   at gnu.java.nio.channels.FileChannelImpl.create(FileChannelImpl.java:111)\n   at java.io.RandomAccessFile.<init>(RandomAccessFile.java:125)\n   at java.io.RandomAccessFile.<init>(RandomAccessFile.java:159)\n   at pdftk.com.lowagie.text.pdf.RandomAccessFileOrArray.reOpen(pdftk)\n   at pdftk.com.lowagie.text.pdf.PdfReader.getStreamBytes(pdftk)2"}
+[2019-11-19 23:50:45] [INFO]: {"tipo":"parser","diario":"2521","message":"ok"}
+[2019-11-19 23:50:45] [INFO]: {"tipo":"parser","diario":"2521","message":"ok"}
+[2019-11-19 23:50:45] [INFO]: {"tipo":"parser","diario":"2521","message":"ok"}
+[2019-11-19 23:50:45] [INFO]: {"tipo":"parser","diario":"2521","message":"ok"}
+[2019-11-19 23:50:46] [INFO]: {"tipo":"parser","diario":"2521","message":"ok"}
+[2019-11-21 11:00:10] [INFO]: {"tipo":"command-link","diario":"2522","message":"success: message: "}
+[2019-11-21 11:00:23] [INFO]: {"tipo":"parser","diario":"2522","message":"ok"}
+[2019-11-22 11:00:07] [INFO]: {"tipo":"command-link","diario":"2523","message":"success: message: "}
+[2019-11-22 11:00:13] [INFO]: {"tipo":"parser","diario":"2523","message":"ok"}
+[2019-11-23 11:00:06] [INFO]: {"tipo":"command-link","diario":"2524","message":"success: message: "}
+[2019-11-23 11:00:12] [INFO]: {"tipo":"parser","diario":"2524","message":"ok"}
+[2019-11-25 11:00:06] [INFO]: {"tipo":"command-link","diario":"2525","message":"success: message: "}
+[2019-11-25 11:00:13] [INFO]: {"tipo":"parser","diario":"2525","message":"ok"}
+[2019-11-26 11:00:07] [INFO]: {"tipo":"command-link","diario":"2526","message":"success: message: "}
+[2019-11-26 11:00:16] [INFO]: {"tipo":"parser","diario":"2526","message":"ok"}
+[2019-11-27 11:00:07] [INFO]: {"tipo":"command-link","diario":"2527","message":"success: message: "}
+[2019-11-27 11:00:14] [INFO]: {"tipo":"parser","diario":"2527","message":"ok"}
+[2019-11-28 11:00:07] [INFO]: {"tipo":"command-link","diario":"2528","message":"success: message: "}
+[2019-11-28 11:00:16] [INFO]: {"tipo":"parser","diario":"2528","message":"ok"}
+[2019-11-30 11:00:07] [INFO]: {"tipo":"command-link","diario":"2529","message":"success: message: "}
+[2019-11-30 11:00:18] [INFO]: {"tipo":"parser","diario":"2529","message":"ok"}
+[2019-12-03 11:00:06] [INFO]: {"tipo":"command-link","diario":"2530","message":"success: message: "}
+[2019-12-03 11:00:12] [INFO]: {"tipo":"parser","diario":"2530","message":"ok"}
+[2019-12-04 11:00:06] [INFO]: {"tipo":"command-link","diario":"2531","message":"success: message: "}
+[2019-12-04 11:00:11] [INFO]: {"tipo":"parser","diario":"2531","message":"ok"}
+[2019-12-05 11:00:05] [INFO]: {"tipo":"command-link","diario":"2532","message":"success: message: "}
+[2019-12-05 11:00:13] [INFO]: {"tipo":"parser","diario":"2532","message":"ok"}
+[2019-12-06 11:00:06] [INFO]: {"tipo":"command-link","diario":"2533","message":"success: message: "}
+[2019-12-06 11:00:10] [INFO]: {"tipo":"parser","diario":"2533","message":"ok"}
+[2019-12-07 11:00:06] [INFO]: {"tipo":"command-link","diario":"2534","message":"success: message: "}
+[2019-12-07 11:00:12] [INFO]: {"tipo":"parser","diario":"2534","message":"ok"}
+[2019-12-09 11:00:06] [INFO]: {"tipo":"command-link","diario":"2535","message":"success: message: "}
+[2019-12-09 11:00:12] [INFO]: {"tipo":"parser","diario":"2535","message":"ok"}
+[2019-12-10 11:00:07] [INFO]: {"tipo":"command-link","diario":"2536","message":"success: message: "}
+[2019-12-10 11:00:16] [INFO]: {"tipo":"parser","diario":"2536","message":"ok"}
+[2019-12-12 11:00:07] [INFO]: {"tipo":"command-link","diario":"2537","message":"success: message: "}
+[2019-12-12 11:00:18] [INFO]: {"tipo":"parser","diario":"2537","message":"ok"}
+[2019-12-13 11:00:06] [INFO]: {"tipo":"command-link","diario":"2538","message":"success: message: "}
+[2019-12-13 11:00:12] [INFO]: {"tipo":"parser","diario":"2538","message":"ok"}
+[2019-12-14 11:00:07] [INFO]: {"tipo":"command-link","diario":"2539","message":"success: message: "}
+[2019-12-14 11:00:16] [INFO]: {"tipo":"parser","diario":"2539","message":"ok"}
+[2019-12-16 11:00:06] [INFO]: {"tipo":"command-link","diario":"2540","message":"success: message: "}
+[2019-12-16 11:00:12] [INFO]: {"tipo":"parser","diario":"2540","message":"ok"}
+[2019-12-17 11:00:05] [INFO]: {"tipo":"command-link","diario":"2541","message":"success: message: "}
+[2019-12-17 11:00:11] [INFO]: {"tipo":"parser","diario":"2541","message":"ok"}
+[2019-12-18 11:00:04] [INFO]: {"tipo":"command-link","diario":"2542","message":"success: message: "}
+[2019-12-18 11:00:10] [INFO]: {"tipo":"parser","diario":"2542","message":"ok"}
+[2019-12-19 11:00:07] [INFO]: {"tipo":"command-link","diario":"2543","message":"success: message: "}
+[2019-12-19 11:00:15] [INFO]: {"tipo":"parser","diario":"2543","message":"ok"}
+[2019-12-21 11:00:08] [INFO]: {"tipo":"command-link","diario":"2544","message":"success: message: "}
+[2019-12-21 11:00:16] [INFO]: {"tipo":"parser","diario":"2544","message":"ok"}
+[2019-12-24 11:00:07] [INFO]: {"tipo":"command-link","diario":"2545","message":"success: message: "}
+[2019-12-24 11:00:10] [INFO]: {"tipo":"parser","diario":"2545","message":"ok"}
+[2019-12-27 11:00:03] [INFO]: {"tipo":"command-link","diario":"2546","message":"success: message: "}
+[2019-12-27 11:00:03] [INFO]: {"tipo":"parser","diario":"2546","message":"ok"}
+[2019-12-28 11:00:04] [INFO]: {"tipo":"command-link","diario":"2547","message":"success: message: "}
+[2019-12-28 11:00:05] [INFO]: {"tipo":"parser","diario":"2547","message":"ok"}
+[2019-12-31 11:00:06] [INFO]: {"tipo":"command-link","diario":"2548","message":"success: message: "}
+[2019-12-31 11:00:08] [INFO]: {"tipo":"parser","diario":"2548","message":"ok"}
+[2020-01-03 11:00:04] [INFO]: {"tipo":"command-link","diario":"2549","message":"success: message: "}
+[2020-01-03 11:00:05] [INFO]: {"tipo":"parser","diario":"2549","message":"ok"}
+[2020-01-04 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-04 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-04 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-05 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-05 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-05 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-06 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-06 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-06 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-07 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-07 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-07 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-08 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-08 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-08 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-09 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-09 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-09 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-10 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-10 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-10 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-11 11:00:03] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-11 11:00:03] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-11 11:00:03] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-12 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-12 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-12 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-13 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-13 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-13 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-14 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-14 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-14 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-15 11:00:05] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-15 11:00:05] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-15 11:00:05] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-16 11:00:05] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-16 11:00:05] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-16 11:00:05] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-17 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-17 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-17 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-18 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-18 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-18 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-19 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-19 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-19 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-20 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-20 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-20 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-21 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-21 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-21 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-22 11:00:05] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-22 11:00:05] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-22 11:00:05] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-23 11:00:05] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-23 11:00:05] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-23 11:00:05] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-24 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-24 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-24 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-25 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-25 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-25 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-26 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-26 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-26 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-27 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-27 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-27 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-28 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-28 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-28 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-29 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-29 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-29 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}

@@ -1,0 +1,732 @@
+[2018-09-13 12:30:57] [ERROR]: ["Aguardando - 2237"]
+[2018-09-13 12:32:24] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2237"}
+[2018-09-13 16:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2237"}
+[2018-09-14 19:00:44] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2238"}
+[2018-09-14 19:19:00] [ERROR]: {"tipo":"url","diario":2239,"message":{"error":"Url nao existe!"}}
+[2018-09-14 19:23:22] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2239"}
+[2018-09-14 19:23:25] [ERROR]: {"tipo":"url","diario":2239,"message":{"error":"Url nao existe!"}}
+[2018-09-15 15:00:03] [ERROR]: {"tipo":"url","diario":2239,"message":{"error":"Url nao existe!"}}
+[2018-09-15 16:00:02] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2239"}
+[2018-09-19 15:17:38] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2241"}
+[2018-09-19 15:18:32] [ERROR]: {"tipo":"url","diario":2242,"message":{"error":"Url nao existe!"}}
+[2018-09-20 03:00:04] [ERROR]: {"tipo":"url","diario":2242,"message":{"error":"Url nao existe!"}}
+[2018-09-25 23:21:44] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2243"}
+[2018-09-26 19:07:27] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2245"}
+[2018-09-26 19:14:25] [ERROR]: {"tipo":"url","diario":2247,"message":{"error":"Url nao existe!"}}
+[2018-10-01 18:31:46] [ERROR]: {"tipo":"url","diario":2250,"message":{"error":"Url nao existe!"}}
+[2018-10-12 00:03:12] [ERROR]: {"tipo":"url","diario":2255,"message":{"error":"Url nao existe!"}}
+[2018-10-18 21:39:59] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2255"}
+[2018-10-18 21:51:10] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2255"}
+[2018-10-18 22:36:20] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2255"}
+[2018-10-23 22:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2263"}
+[2018-10-23 22:03:02] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2263"}
+[2018-10-23 22:06:02] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2263"}
+[2018-10-23 22:07:46] [ERROR]: {"tipo":"command","diario":2263,"message":{"erro":"Aguardando o Ok"}}
+[2018-10-23 22:08:01] [ERROR]: {"tipo":"command","diario":2263,"message":{"erro":"Aguardando o Ok"}}
+[2018-10-23 22:08:31] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2263"}
+[2018-10-23 22:09:02] [ERROR]: {"tipo":"command","diario":2263,"message":{"erro":"Aguardando o Ok"}}
+[2018-10-23 22:15:01] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2265"}
+[2018-10-23 22:15:52] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2265"}
+[2018-10-23 22:15:59] [ERROR]: {"tipo":"url","diario":2265,"message":{"error":"Url nao existe!"}}
+[2018-10-23 22:18:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2265"}
+[2018-10-23 23:00:04] [ERROR]: {"tipo":"url","diario":2265,"message":{"error":"Url nao existe!"}}
+[2018-10-24 11:00:05] [ERROR]: {"tipo":"url","diario":2265,"message":{"error":"Url nao existe!"}}
+[2018-10-24 12:00:01] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2265"}
+[2018-10-24 19:50:18] [ERROR]: {"tipo":"url","diario":2265,"message":{"error":"Url nao existe!"}}
+[2018-11-03 17:35:37] [ERROR]: {"tipo":"command","diario":2268,"message":{"erro":"Aguardando o Ok"}}
+[2018-11-03 17:37:59] [ERROR]: {"tipo":"command","diario":2269,"message":{"erro":"Aguardando o Ok do diario n\u00ba2269"}}
+[2018-11-03 17:38:14] [ERROR]: {"tipo":"command","diario":2269,"message":{"erro":"Aguardando o Ok do diario 2269"}}
+[2018-11-03 20:12:19] [ERROR]: {"tipo":"command","diario":2270,"message":{"erro":"Aguardando o paser do diario 2270"}}
+[2018-11-03 20:12:58] [ERROR]: {"tipo":"url","diario":2271,"message":{"error":"Url nao existe!"}}
+[2018-11-03 20:12:59] [ERROR]: {"tipo":"url","diario":2271,"message":{"error":"Url nao existe!"}}
+[2018-11-03 20:13:02] [ERROR]: {"tipo":"url","diario":2271,"message":{"error":"Url nao existe!"}}
+[2018-11-03 23:00:04] [ERROR]: {"tipo":"url","diario":2271,"message":{"error":"Url nao existe!"}}
+[2018-11-09 12:37:28] [ERROR]: {"tipo":"command","diario":2272,"message":{"erro":"Aguardando o paser do diario 2272"}}
+[2018-11-09 12:40:02] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2272"}
+[2018-11-09 12:40:36] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2272"}
+[2018-11-09 12:42:28] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 12:42:28] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 12:45:48] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 12:45:48] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 12:47:17] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 12:47:17] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 12:51:27] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 12:51:27] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 12:51:58] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 12:51:58] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 12:53:28] [ERROR]: {"tipo":"paser","diario":"2272","message":null}
+[2018-11-09 12:53:28] [ERROR]: {"tipo":"processarDados","diario":"2272","message":null}
+[2018-11-09 12:53:40] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 12:53:40] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 12:54:17] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 12:54:17] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 12:54:24] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 12:54:24] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 12:54:47] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 12:54:47] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 12:54:51] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 12:54:51] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 12:58:34] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 12:58:34] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:18:24] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:18:24] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:19:24] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:19:24] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:19:33] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:19:33] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:19:36] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:19:36] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:22:05] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:22:05] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:22:28] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:22:28] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:23:08] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:23:08] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:23:19] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:23:19] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:24:28] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:24:28] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:25:11] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:25:11] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:25:44] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:25:44] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:26:02] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:26:02] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:26:24] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:26:24] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:26:28] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:26:28] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:27:12] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:27:12] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:28:07] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:28:07] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:30:05] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:30:05] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:30:54] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:30:54] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:31:11] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:31:11] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:31:32] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:31:32] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:32:04] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:32:04] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:36:01] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:36:01] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:36:10] [ERROR]: {"tipo":"command","diario":null,"message":{"erro":"Aguardando o paser do diario "}}
+[2018-11-09 18:36:52] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:36:52] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:39:17] [ERROR]: {"tipo":"paser","diario":"2272","message":[]}
+[2018-11-09 18:39:17] [ERROR]: {"tipo":"processarDados","diario":"2272","message":[]}
+[2018-11-09 18:53:25] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2272"}
+[2018-11-09 18:53:28] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2272"}
+[2018-11-09 20:00:56] [ERROR]: {"task":"domp_continuaPaser","error":"N\u00e3o h\u00e1 arquivos na pasta para processar!","message":null}
+[2018-11-09 20:02:37] [ERROR]: {"tipo":"command-page","diario":"2272","message":{"erro":"Aguardando o paser do diario 2272"}}
+[2018-11-09 20:04:25] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2272"}
+[2018-11-09 20:04:47] [ERROR]: {"tipo":"command-page","diario":"2272","message":{"erro":"Aguardando o paser do diario 2272"}}
+[2018-11-09 20:05:16] [ERROR]: {"tipo":"command-page","diario":"2272","message":{"erro":"Aguardando o paser do diario 2272"}}
+[2018-11-09 20:05:18] [ERROR]: {"tipo":"command-page","diario":"2272","message":{"erro":"Aguardando o paser do diario 2272"}}
+[2018-11-09 20:06:30] [ERROR]: {"tipo":"command-page","diario":"2272","message":{"erro":"Aguardando o paser do diario 2272"}}
+[2018-11-09 20:07:16] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2273"}
+[2018-11-09 20:08:53] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2273"}
+[2018-11-09 20:12:56] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2275"}
+[2018-11-09 20:13:45] [ERROR]: {"tipo":"url","diario":2276,"message":{"error":"Url nao existe!"}}
+[2018-11-09 21:00:04] [ERROR]: {"tipo":"url","diario":2276,"message":{"error":"Url nao existe!"}}
+[2018-11-13 09:00:05] [ERROR]: {"tipo":"command-page","diario":2276,"message":{"erro":"Aguardando o paser do diario 2276"}}
+[2018-11-15 11:28:56] [ERROR]: {"tipo":"command-page","diario":null,"message":{"erro":"Aguardando o paser do diario "}}
+[2018-11-15 11:30:05] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - "}
+[2018-11-15 11:48:32] [ERROR]: {"tipo":"command-page","diario":2276,"message":{"erro":"Aguardando o paser do diario 2276"}}
+[2018-11-15 11:50:07] [ERROR]: {"tipo":"command-page","diario":2277,"message":{"erro":"Aguardando o paser do diario 2277"}}
+[2018-11-15 11:51:09] [ERROR]: {"tipo":"command-page","diario":2278,"message":{"erro":"Aguardando o paser do diario 2278"}}
+[2018-11-15 11:51:22] [ERROR]: {"tipo":"url","diario":2279,"message":{"error":"Url nao existe!"}}
+[2018-11-15 11:51:42] [ERROR]: {"tipo":"url","diario":2279,"message":{"error":"Url nao existe!"}}
+[2018-11-15 11:51:48] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2279"}
+[2018-11-17 21:00:05] [ERROR]: {"tipo":"url","diario":2279,"message":{"error":"Url nao existe!"}}
+[2018-11-19 10:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2279"}
+[2018-11-19 12:53:27] [ERROR]: {"tipo":"url","diario":2280,"message":{"error":"Url nao existe!"}}
+[2018-11-21 06:21:13] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2280"}
+[2018-11-21 06:22:03] [ERROR]: {"tipo":"url","diario":2281,"message":{"error":"Url nao existe!"}}
+[2018-11-21 06:22:08] [ERROR]: {"tipo":"url","diario":2281,"message":{"error":"Url nao existe!"}}
+[2018-11-21 06:22:12] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2281"}
+[2018-11-22 10:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2282"}
+[2018-11-22 20:19:46] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2282"}
+[2018-11-22 20:20:12] [ERROR]: {"tipo":"url","diario":2283,"message":{"error":"Url nao existe!"}}
+[2018-11-22 20:23:43] [ERROR]: {"tipo":"url","diario":2283,"message":{"error":"Url nao existe!"}}
+[2018-11-22 20:23:46] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2283"}
+[2018-11-22 21:00:04] [ERROR]: {"tipo":"url","diario":2283,"message":{"error":"Url nao existe!"}}
+[2018-11-26 07:38:02] [ERROR]: {"tipo":"url","diario":2284,"message":{"error":"Url nao existe!"}}
+[2018-11-26 09:00:05] [ERROR]: {"tipo":"url","diario":2284,"message":{"error":"Url nao existe!"}}
+[2018-11-26 10:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2284"}
+[2018-11-27 08:48:49] [ERROR]: {"tipo":"url","diario":2285,"message":{"error":"Url nao existe!"}}
+[2018-11-27 09:00:04] [ERROR]: {"tipo":"url","diario":2285,"message":{"error":"Url nao existe!"}}
+[2018-11-27 10:00:06] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2285"}
+[2018-11-29 09:00:04] [ERROR]: {"tipo":"command-page","diario":2285,"message":{"erro":"Aguardando o paser do diario 2285"}}
+[2018-11-29 09:08:31] [ERROR]: {"tipo":"command-page","diario":2285,"message":{"erro":"Aguardando o paser do diario 2285"}}
+[2018-11-29 10:27:31] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2288"}
+[2018-11-29 10:27:39] [ERROR]: {"tipo":"url","diario":2288,"message":{"error":"Url nao existe!"}}
+[2018-12-03 09:00:04] [ERROR]: {"tipo":"command-page","diario":2288,"message":{"erro":"Aguardando o paser do diario 2288"}}
+[2018-12-03 09:06:20] [ERROR]: {"tipo":"url","diario":2290,"message":{"error":"Url nao existe!"}}
+[2018-12-03 09:31:16] [ERROR]: {"tipo":"url","diario":2290,"message":{"error":"Url nao existe!"}}
+[2018-12-03 09:31:18] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2290"}
+[2018-12-03 10:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2290"}
+[2018-12-05 10:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2290"}
+[2018-12-07 12:43:37] [ERROR]: {"tipo":"command-page","diario":2290,"message":{"erro":"Aguardando o paser do diario 2290"}}
+[2018-12-07 12:44:34] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2291"}
+[2018-12-11 11:52:44] [ERROR]: {"tipo":"url","diario":2296,"message":{"error":"Url nao existe!"}}
+[2018-12-11 11:52:51] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2296"}
+[2018-12-13 09:30:31] [ERROR]: {"tipo":"url","diario":2298,"message":{"error":"Url nao existe!"}}
+[2018-12-13 10:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2298"}
+[2018-12-24 19:07:58] [ERROR]: {"tipo":"command-page","diario":2299,"message":{"erro":"Aguardando o paser do diario 2299"}}
+[2018-12-24 19:10:22] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2300"}
+[2018-12-24 19:12:24] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2301"}
+[2018-12-24 19:17:08] [ERROR]: {"tipo":"url","diario":2303,"message":{"error":"Url nao existe!"}}
+[2018-12-24 19:17:12] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2303"}
+[2018-12-28 10:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2303"}
+[2019-01-07 07:24:52] [ERROR]: {"tipo":"url","diario":2309,"message":{"error":"Url nao existe!"}}
+[2019-01-07 07:24:56] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2309"}
+[2019-01-07 10:39:12] [ERROR]: {"tipo":"url","diario":2310,"message":{"error":"Url nao existe!"}}
+[2019-01-07 10:43:09] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2310"}
+[2019-01-08 10:00:05] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2310"}
+[2019-01-09 05:46:24] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2310"}
+[2019-01-09 05:47:10] [ERROR]: {"tipo":"url","diario":2311,"message":{"error":"Url nao existe!"}}
+[2019-01-11 06:54:00] [ERROR]: {"tipo":"url","diario":2313,"message":{"error":"Url nao existe!"}}
+[2019-01-12 21:00:04] [ERROR]: {"tipo":"url","diario":2314,"message":{"error":"Url nao existe!"}}
+[2019-01-18 05:36:04] [ERROR]: {"tipo":"url","diario":2318,"message":{"error":"Url nao existe!"}}
+[2019-01-21 06:08:19] [ERROR]: {"tipo":"url","diario":2319,"message":{"error":"Url nao existe!"}}
+[2019-01-21 11:44:37] [ERROR]: {"tipo":"url","diario":2320,"message":{"error":"Url nao existe!"}}
+[2019-01-23 10:49:44] [ERROR]: {"tipo":"command-page","diario":2320,"message":{"erro":"Aguardando o paser do diario 2320"}}
+[2019-01-23 10:51:26] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2321"}
+[2019-01-23 10:53:16] [ERROR]: {"tipo":"url","diario":2322,"message":{"error":"Url nao existe!"}}
+[2019-01-23 10:53:21] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2322"}
+[2019-01-26 21:00:05] [ERROR]: {"tipo":"url","diario":2324,"message":{"error":"Url nao existe!"}}
+[2019-01-29 08:08:15] [ERROR]: {"tipo":"url","diario":2325,"message":{"error":"Url nao existe!"}}
+[2019-01-31 21:00:03] [ERROR]: {"tipo":"command-page","diario":2325,"message":{"erro":"Aguardando o paser do diario 2325"}}
+[2019-02-04 09:00:05] [ERROR]: {"tipo":"command-page","diario":2325,"message":{"erro":"Aguardando o paser do diario 2325"}}
+[2019-02-04 10:58:10] [ERROR]: {"tipo":"command-page","diario":2325,"message":{"erro":"Aguardando o paser do diario 2325"}}
+[2019-02-04 13:43:53] [ERROR]: {"tipo":"url","diario":2330,"message":{"error":"Url nao existe!"}}
+[2019-02-04 13:48:49] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2330"}
+[2019-02-04 21:00:04] [ERROR]: {"tipo":"url","diario":2330,"message":{"error":"Url nao existe!"}}
+[2019-02-05 21:00:04] [ERROR]: {"tipo":"url","diario":2331,"message":{"error":"Url nao existe!"}}
+[2019-02-06 21:00:05] [ERROR]: {"tipo":"url","diario":2332,"message":{"error":"Url nao existe!"}}
+[2019-02-07 21:00:04] [ERROR]: {"tipo":"url","diario":2333,"message":{"error":"Url nao existe!"}}
+[2019-02-08 21:00:04] [ERROR]: {"tipo":"url","diario":2334,"message":{"error":"Url nao existe!"}}
+[2019-02-09 09:00:05] [ERROR]: {"tipo":"url","diario":2334,"message":{"error":"Url nao existe!"}}
+[2019-02-09 10:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2334"}
+[2019-02-09 21:00:06] [ERROR]: {"tipo":"url","diario":2334,"message":{"error":"Url nao existe!"}}
+[2019-02-10 09:00:05] [ERROR]: {"tipo":"url","diario":2334,"message":{"error":"Url nao existe!"}}
+[2019-02-10 10:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2334"}
+[2019-02-10 21:00:05] [ERROR]: {"tipo":"url","diario":2334,"message":{"error":"Url nao existe!"}}
+[2019-02-11 21:00:04] [ERROR]: {"tipo":"url","diario":2335,"message":{"error":"Url nao existe!"}}
+[2019-02-12 21:00:04] [ERROR]: {"tipo":"url","diario":2336,"message":{"error":"Url nao existe!"}}
+[2019-02-13 21:00:04] [ERROR]: {"tipo":"url","diario":2337,"message":{"error":"Url nao existe!"}}
+[2019-02-14 21:00:04] [ERROR]: {"tipo":"url","diario":2338,"message":{"error":"Url nao existe!"}}
+[2019-02-15 21:00:05] [ERROR]: {"tipo":"url","diario":2339,"message":{"error":"Url nao existe!"}}
+[2019-02-16 09:00:04] [ERROR]: {"tipo":"url","diario":2339,"message":{"error":"Url nao existe!"}}
+[2019-02-16 10:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2339"}
+[2019-02-16 22:00:04] [ERROR]: {"tipo":"url","diario":2339,"message":{"error":"Url nao existe!"}}
+[2019-02-17 10:00:04] [ERROR]: {"tipo":"url","diario":2339,"message":{"error":"Url nao existe!"}}
+[2019-02-17 11:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2339"}
+[2019-02-17 22:00:05] [ERROR]: {"tipo":"url","diario":2339,"message":{"error":"Url nao existe!"}}
+[2019-02-18 22:00:04] [ERROR]: {"tipo":"url","diario":2340,"message":{"error":"Url nao existe!"}}
+[2019-02-19 22:00:02] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-20 10:00:03] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-20 22:00:03] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-21 10:00:03] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-21 22:00:03] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-22 10:00:03] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-22 22:00:04] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-23 10:00:04] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-23 22:00:03] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-24 10:00:04] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-24 22:00:03] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-25 10:00:04] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-25 22:00:03] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-26 10:00:04] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-26 22:00:03] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-27 10:00:04] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-27 22:00:03] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-28 10:00:03] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-02-28 22:00:04] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-03-01 10:00:04] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-03-01 22:00:03] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-03-02 10:00:03] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-03-02 22:00:03] [ERROR]: {"tipo":"command-page","diario":2340,"message":{"erro":"Aguardando o paser do diario 2340"}}
+[2019-04-21 11:24:58] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2376"}
+[2019-04-21 11:31:38] [ERROR]: {"tipo":"url","diario":2379,"message":{"error":"Url nao existe!"}}
+[2019-04-24 22:34:06] [ERROR]: {"tipo":"command-page","diario":2379,"message":{"erro":"Aguardando o paser do diario 2379"}}
+[2019-04-24 22:39:27] [ERROR]: {"tipo":"url","diario":2382,"message":{"error":"Url nao existe!"}}
+[2019-04-24 23:00:05] [ERROR]: {"tipo":"url","diario":2382,"message":{"error":"Url nao existe!"}}
+[2019-04-25 23:00:04] [ERROR]: {"tipo":"url","diario":2383,"message":{"error":"Url nao existe!"}}
+[2019-04-26 23:00:04] [ERROR]: {"tipo":"url","diario":2384,"message":{"error":"Url nao existe!"}}
+[2019-04-27 11:00:05] [ERROR]: {"tipo":"url","diario":2384,"message":{"error":"Url nao existe!"}}
+[2019-04-27 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2384"}
+[2019-04-27 23:00:04] [ERROR]: {"tipo":"url","diario":2384,"message":{"error":"Url nao existe!"}}
+[2019-04-28 11:00:05] [ERROR]: {"tipo":"url","diario":2384,"message":{"error":"Url nao existe!"}}
+[2019-04-28 12:00:02] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2384"}
+[2019-04-28 23:00:05] [ERROR]: {"tipo":"url","diario":2384,"message":{"error":"Url nao existe!"}}
+[2019-04-29 23:00:05] [ERROR]: {"tipo":"url","diario":2385,"message":{"error":"Url nao existe!"}}
+[2019-04-30 23:00:04] [ERROR]: {"tipo":"url","diario":2386,"message":{"error":"Url nao existe!"}}
+[2019-05-01 11:00:05] [ERROR]: {"tipo":"url","diario":2386,"message":{"error":"Url nao existe!"}}
+[2019-05-01 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2386"}
+[2019-05-01 23:00:04] [ERROR]: {"tipo":"url","diario":2386,"message":{"error":"Url nao existe!"}}
+[2019-05-02 23:00:05] [ERROR]: {"tipo":"url","diario":2387,"message":{"error":"Url nao existe!"}}
+[2019-05-03 23:00:04] [ERROR]: {"tipo":"url","diario":2388,"message":{"error":"Url nao existe!"}}
+[2019-05-04 11:00:05] [ERROR]: {"tipo":"url","diario":2388,"message":{"error":"Url nao existe!"}}
+[2019-05-04 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2388"}
+[2019-05-04 23:00:04] [ERROR]: {"tipo":"url","diario":2388,"message":{"error":"Url nao existe!"}}
+[2019-05-05 11:00:04] [ERROR]: {"tipo":"url","diario":2388,"message":{"error":"Url nao existe!"}}
+[2019-05-05 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2388"}
+[2019-05-05 23:00:03] [ERROR]: {"tipo":"url","diario":2388,"message":{"error":"Url nao existe!"}}
+[2019-05-06 23:00:05] [ERROR]: {"tipo":"url","diario":2389,"message":{"error":"Url nao existe!"}}
+[2019-05-07 23:00:04] [ERROR]: {"tipo":"url","diario":2390,"message":{"error":"Url nao existe!"}}
+[2019-05-08 23:00:05] [ERROR]: {"tipo":"url","diario":2391,"message":{"error":"Url nao existe!"}}
+[2019-05-09 23:00:05] [ERROR]: {"tipo":"url","diario":2392,"message":{"error":"Url nao existe!"}}
+[2019-05-10 23:00:04] [ERROR]: {"tipo":"url","diario":2393,"message":{"error":"Url nao existe!"}}
+[2019-05-11 11:00:05] [ERROR]: {"tipo":"url","diario":2393,"message":{"error":"Url nao existe!"}}
+[2019-05-11 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2393"}
+[2019-05-11 23:00:04] [ERROR]: {"tipo":"url","diario":2393,"message":{"error":"Url nao existe!"}}
+[2019-05-12 11:00:05] [ERROR]: {"tipo":"url","diario":2393,"message":{"error":"Url nao existe!"}}
+[2019-05-12 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2393"}
+[2019-05-12 23:00:03] [ERROR]: {"tipo":"url","diario":2393,"message":{"error":"Url nao existe!"}}
+[2019-05-13 23:00:05] [ERROR]: {"tipo":"url","diario":2394,"message":{"error":"Url nao existe!"}}
+[2019-05-14 23:00:04] [ERROR]: {"tipo":"url","diario":2395,"message":{"error":"Url nao existe!"}}
+[2019-05-15 23:00:04] [ERROR]: {"tipo":"url","diario":2396,"message":{"error":"Url nao existe!"}}
+[2019-05-16 23:00:05] [ERROR]: {"tipo":"url","diario":2397,"message":{"error":"Url nao existe!"}}
+[2019-05-17 23:00:04] [ERROR]: {"tipo":"url","diario":2398,"message":{"error":"Url nao existe!"}}
+[2019-05-18 11:00:02] [ERROR]: {"tipo":"url","diario":2398,"message":{"error":"Url nao existe!"}}
+[2019-05-18 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2398"}
+[2019-05-18 23:00:04] [ERROR]: {"tipo":"url","diario":2398,"message":{"error":"Url nao existe!"}}
+[2019-05-19 11:00:05] [ERROR]: {"tipo":"url","diario":2398,"message":{"error":"Url nao existe!"}}
+[2019-05-19 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2398"}
+[2019-05-19 23:00:04] [ERROR]: {"tipo":"url","diario":2398,"message":{"error":"Url nao existe!"}}
+[2019-05-20 23:00:04] [ERROR]: {"tipo":"url","diario":2399,"message":{"error":"Url nao existe!"}}
+[2019-05-21 23:00:04] [ERROR]: {"tipo":"url","diario":2400,"message":{"error":"Url nao existe!"}}
+[2019-05-22 23:00:05] [ERROR]: {"tipo":"url","diario":2401,"message":{"error":"Url nao existe!"}}
+[2019-05-23 23:00:04] [ERROR]: {"tipo":"url","diario":2402,"message":{"error":"Url nao existe!"}}
+[2019-05-24 11:00:05] [ERROR]: {"tipo":"url","diario":2402,"message":{"error":"Url nao existe!"}}
+[2019-05-24 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2402"}
+[2019-05-24 23:00:04] [ERROR]: {"tipo":"url","diario":2402,"message":{"error":"Url nao existe!"}}
+[2019-05-25 11:00:04] [ERROR]: {"tipo":"url","diario":2402,"message":{"error":"Url nao existe!"}}
+[2019-05-25 12:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2402"}
+[2019-05-25 23:00:05] [ERROR]: {"tipo":"url","diario":2402,"message":{"error":"Url nao existe!"}}
+[2019-05-26 11:00:04] [ERROR]: {"tipo":"url","diario":2402,"message":{"error":"Url nao existe!"}}
+[2019-05-26 12:00:02] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2402"}
+[2019-05-26 23:00:04] [ERROR]: {"tipo":"url","diario":2402,"message":{"error":"Url nao existe!"}}
+[2019-05-27 23:00:05] [ERROR]: {"tipo":"url","diario":2403,"message":{"error":"Url nao existe!"}}
+[2019-05-28 23:00:04] [ERROR]: {"tipo":"url","diario":2404,"message":{"error":"Url nao existe!"}}
+[2019-05-29 23:00:05] [ERROR]: {"tipo":"url","diario":2405,"message":{"error":"Url nao existe!"}}
+[2019-05-30 23:00:04] [ERROR]: {"tipo":"url","diario":2406,"message":{"error":"Url nao existe!"}}
+[2019-05-31 23:00:04] [ERROR]: {"tipo":"url","diario":2407,"message":{"error":"Url nao existe!"}}
+[2019-06-01 11:00:04] [ERROR]: {"tipo":"url","diario":2407,"message":{"error":"Url nao existe!"}}
+[2019-06-01 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2407"}
+[2019-06-01 23:00:04] [ERROR]: {"tipo":"url","diario":2407,"message":{"error":"Url nao existe!"}}
+[2019-06-02 11:00:05] [ERROR]: {"tipo":"url","diario":2407,"message":{"error":"Url nao existe!"}}
+[2019-06-02 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2407"}
+[2019-06-02 23:00:04] [ERROR]: {"tipo":"url","diario":2407,"message":{"error":"Url nao existe!"}}
+[2019-06-03 23:00:04] [ERROR]: {"tipo":"url","diario":2408,"message":{"error":"Url nao existe!"}}
+[2019-06-04 23:00:04] [ERROR]: {"tipo":"url","diario":2409,"message":{"error":"Url nao existe!"}}
+[2019-06-05 23:00:04] [ERROR]: {"tipo":"url","diario":2410,"message":{"error":"Url nao existe!"}}
+[2019-06-06 23:00:03] [ERROR]: {"tipo":"url","diario":2411,"message":{"error":"Url nao existe!"}}
+[2019-06-07 23:00:04] [ERROR]: {"tipo":"url","diario":2412,"message":{"error":"Url nao existe!"}}
+[2019-06-08 11:00:04] [ERROR]: {"tipo":"url","diario":2412,"message":{"error":"Url nao existe!"}}
+[2019-06-08 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2412"}
+[2019-06-08 23:00:04] [ERROR]: {"tipo":"url","diario":2412,"message":{"error":"Url nao existe!"}}
+[2019-06-09 11:00:05] [ERROR]: {"tipo":"url","diario":2412,"message":{"error":"Url nao existe!"}}
+[2019-06-09 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2412"}
+[2019-06-09 23:00:05] [ERROR]: {"tipo":"url","diario":2412,"message":{"error":"Url nao existe!"}}
+[2019-06-10 23:00:05] [ERROR]: {"tipo":"url","diario":2413,"message":{"error":"Url nao existe!"}}
+[2019-06-11 23:00:04] [ERROR]: {"tipo":"url","diario":2414,"message":{"error":"Url nao existe!"}}
+[2019-06-12 23:00:05] [ERROR]: {"tipo":"url","diario":2415,"message":{"error":"Url nao existe!"}}
+[2019-06-13 23:00:05] [ERROR]: {"tipo":"url","diario":2416,"message":{"error":"Url nao existe!"}}
+[2019-06-14 23:00:05] [ERROR]: {"tipo":"url","diario":2417,"message":{"error":"Url nao existe!"}}
+[2019-06-15 11:00:05] [ERROR]: {"tipo":"url","diario":2417,"message":{"error":"Url nao existe!"}}
+[2019-06-15 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2417"}
+[2019-06-15 23:00:05] [ERROR]: {"tipo":"url","diario":2417,"message":{"error":"Url nao existe!"}}
+[2019-06-16 11:00:05] [ERROR]: {"tipo":"url","diario":2417,"message":{"error":"Url nao existe!"}}
+[2019-06-16 12:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2417"}
+[2019-06-16 23:00:05] [ERROR]: {"tipo":"url","diario":2417,"message":{"error":"Url nao existe!"}}
+[2019-06-17 23:00:05] [ERROR]: {"tipo":"url","diario":2418,"message":{"error":"Url nao existe!"}}
+[2019-06-18 23:00:05] [ERROR]: {"tipo":"url","diario":2419,"message":{"error":"Url nao existe!"}}
+[2019-06-19 23:00:04] [ERROR]: {"tipo":"url","diario":2420,"message":{"error":"Url nao existe!"}}
+[2019-06-20 11:00:04] [ERROR]: {"tipo":"url","diario":2420,"message":{"error":"Url nao existe!"}}
+[2019-06-20 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2420"}
+[2019-06-20 23:00:04] [ERROR]: {"tipo":"url","diario":2420,"message":{"error":"Url nao existe!"}}
+[2019-06-21 11:00:04] [ERROR]: {"tipo":"url","diario":2420,"message":{"error":"Url nao existe!"}}
+[2019-06-21 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2420"}
+[2019-06-21 23:00:04] [ERROR]: {"tipo":"url","diario":2420,"message":{"error":"Url nao existe!"}}
+[2019-06-22 11:00:05] [ERROR]: {"tipo":"url","diario":2420,"message":{"error":"Url nao existe!"}}
+[2019-06-22 12:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2420"}
+[2019-06-22 23:00:04] [ERROR]: {"tipo":"url","diario":2420,"message":{"error":"Url nao existe!"}}
+[2019-06-23 11:00:04] [ERROR]: {"tipo":"url","diario":2420,"message":{"error":"Url nao existe!"}}
+[2019-06-23 12:00:05] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2420"}
+[2019-06-23 23:00:04] [ERROR]: {"tipo":"url","diario":2420,"message":{"error":"Url nao existe!"}}
+[2019-06-24 23:00:05] [ERROR]: {"tipo":"url","diario":2421,"message":{"error":"Url nao existe!"}}
+[2019-06-26 23:00:04] [ERROR]: {"tipo":"url","diario":2423,"message":{"error":"Url nao existe!"}}
+[2019-06-27 23:00:04] [ERROR]: {"tipo":"url","diario":2424,"message":{"error":"Url nao existe!"}}
+[2019-06-28 23:00:04] [ERROR]: {"tipo":"url","diario":2425,"message":{"error":"Url nao existe!"}}
+[2019-06-29 11:00:04] [ERROR]: {"tipo":"url","diario":2425,"message":{"error":"Url nao existe!"}}
+[2019-06-29 12:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2425"}
+[2019-06-29 23:00:04] [ERROR]: {"tipo":"url","diario":2425,"message":{"error":"Url nao existe!"}}
+[2019-06-30 11:00:04] [ERROR]: {"tipo":"url","diario":2425,"message":{"error":"Url nao existe!"}}
+[2019-06-30 12:00:05] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2425"}
+[2019-06-30 23:00:04] [ERROR]: {"tipo":"url","diario":2425,"message":{"error":"Url nao existe!"}}
+[2019-07-01 23:00:05] [ERROR]: {"tipo":"url","diario":2426,"message":{"error":"Url nao existe!"}}
+[2019-07-02 23:00:05] [ERROR]: {"tipo":"url","diario":2427,"message":{"error":"Url nao existe!"}}
+[2019-07-03 23:00:14] [ERROR]: {"tipo":"url","diario":2428,"message":{"error":"Url nao existe!"}}
+[2019-07-04 23:00:05] [ERROR]: {"tipo":"url","diario":2429,"message":{"error":"Url nao existe!"}}
+[2019-07-05 23:00:04] [ERROR]: {"tipo":"url","diario":2430,"message":{"error":"Url nao existe!"}}
+[2019-07-06 11:00:05] [ERROR]: {"tipo":"url","diario":2430,"message":{"error":"Url nao existe!"}}
+[2019-07-06 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2430"}
+[2019-07-06 23:00:04] [ERROR]: {"tipo":"url","diario":2430,"message":{"error":"Url nao existe!"}}
+[2019-07-07 11:00:05] [ERROR]: {"tipo":"url","diario":2430,"message":{"error":"Url nao existe!"}}
+[2019-07-07 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2430"}
+[2019-07-07 23:00:05] [ERROR]: {"tipo":"url","diario":2430,"message":{"error":"Url nao existe!"}}
+[2019-07-08 23:00:15] [ERROR]: {"tipo":"url","diario":2431,"message":{"error":"Url nao existe!"}}
+[2019-07-09 23:00:05] [ERROR]: {"tipo":"url","diario":2432,"message":{"error":"Url nao existe!"}}
+[2019-07-10 23:00:06] [ERROR]: {"tipo":"url","diario":2433,"message":{"error":"Url nao existe!"}}
+[2019-07-11 23:00:05] [ERROR]: {"tipo":"url","diario":2434,"message":{"error":"Url nao existe!"}}
+[2019-07-12 23:00:05] [ERROR]: {"tipo":"url","diario":2435,"message":{"error":"Url nao existe!"}}
+[2019-07-13 11:00:05] [ERROR]: {"tipo":"url","diario":2435,"message":{"error":"Url nao existe!"}}
+[2019-07-13 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2435"}
+[2019-07-13 23:00:03] [ERROR]: {"tipo":"url","diario":2435,"message":{"error":"Url nao existe!"}}
+[2019-07-14 11:00:05] [ERROR]: {"tipo":"url","diario":2435,"message":{"error":"Url nao existe!"}}
+[2019-07-14 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2435"}
+[2019-07-14 23:00:05] [ERROR]: {"tipo":"url","diario":2435,"message":{"error":"Url nao existe!"}}
+[2019-07-16 11:00:05] [ERROR]: {"tipo":"command-page","diario":2435,"message":{"erro":"Aguardando o paser do diario 2435"}}
+[2019-07-17 11:00:05] [ERROR]: {"tipo":"command-page","diario":2436,"message":{"erro":"Aguardando o paser do diario 2436"}}
+[2019-07-18 11:00:05] [ERROR]: {"tipo":"command-page","diario":2437,"message":{"erro":"Aguardando o paser do diario 2437"}}
+[2019-07-19 11:00:04] [ERROR]: {"tipo":"command-page","diario":2438,"message":{"erro":"Aguardando o paser do diario 2438"}}
+[2019-07-20 11:00:05] [ERROR]: {"tipo":"command-page","diario":2439,"message":{"erro":"Aguardando o paser do diario 2439"}}
+[2019-07-20 23:00:05] [ERROR]: {"tipo":"url","diario":2440,"message":{"error":"Url nao existe!"}}
+[2019-07-21 11:00:04] [ERROR]: {"tipo":"url","diario":2440,"message":{"error":"Url nao existe!"}}
+[2019-07-21 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2440"}
+[2019-07-21 23:00:15] [ERROR]: {"tipo":"url","diario":2440,"message":{"error":"Url nao existe!"}}
+[2019-07-22 11:00:15] [ERROR]: {"tipo":"url","diario":2440,"message":{"error":"Url nao existe!"}}
+[2019-07-22 12:00:05] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2440"}
+[2019-07-23 11:00:04] [ERROR]: {"tipo":"command-page","diario":2440,"message":{"erro":"Aguardando o paser do diario 2440"}}
+[2019-07-24 11:00:04] [ERROR]: {"tipo":"command-page","diario":2441,"message":{"erro":"Aguardando o paser do diario 2441"}}
+[2019-07-25 11:00:05] [ERROR]: {"tipo":"command-page","diario":2442,"message":{"erro":"Aguardando o paser do diario 2442"}}
+[2019-07-26 11:00:05] [ERROR]: {"tipo":"command-page","diario":2443,"message":{"erro":"Aguardando o paser do diario 2443"}}
+[2019-07-26 23:00:05] [ERROR]: {"tipo":"url","diario":2444,"message":{"error":"Url nao existe!"}}
+[2019-07-27 11:00:05] [ERROR]: {"tipo":"url","diario":2444,"message":{"error":"Url nao existe!"}}
+[2019-07-27 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2444"}
+[2019-07-27 23:00:04] [ERROR]: {"tipo":"url","diario":2444,"message":{"error":"Url nao existe!"}}
+[2019-07-28 11:00:05] [ERROR]: {"tipo":"url","diario":2444,"message":{"error":"Url nao existe!"}}
+[2019-07-28 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2444"}
+[2019-07-28 23:00:03] [ERROR]: {"tipo":"url","diario":2444,"message":{"error":"Url nao existe!"}}
+[2019-07-29 23:00:04] [ERROR]: {"tipo":"url","diario":2445,"message":{"error":"Url nao existe!"}}
+[2019-07-30 23:00:05] [ERROR]: {"tipo":"url","diario":2446,"message":{"error":"Url nao existe!"}}
+[2019-07-31 23:00:06] [ERROR]: {"tipo":"url","diario":2447,"message":{"error":"Url nao existe!"}}
+[2019-08-01 23:00:05] [ERROR]: {"tipo":"url","diario":2448,"message":{"error":"Url nao existe!"}}
+[2019-08-02 23:00:06] [ERROR]: {"tipo":"url","diario":2449,"message":{"error":"Url nao existe!"}}
+[2019-08-03 11:00:05] [ERROR]: {"tipo":"url","diario":2449,"message":{"error":"Url nao existe!"}}
+[2019-08-03 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2449"}
+[2019-08-03 23:00:05] [ERROR]: {"tipo":"url","diario":2449,"message":{"error":"Url nao existe!"}}
+[2019-08-04 11:00:05] [ERROR]: {"tipo":"url","diario":2449,"message":{"error":"Url nao existe!"}}
+[2019-08-04 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2449"}
+[2019-08-04 23:00:05] [ERROR]: {"tipo":"url","diario":2449,"message":{"error":"Url nao existe!"}}
+[2019-08-05 23:00:05] [ERROR]: {"tipo":"url","diario":2450,"message":{"error":"Url nao existe!"}}
+[2019-08-06 23:00:05] [ERROR]: {"tipo":"url","diario":2451,"message":{"error":"Url nao existe!"}}
+[2019-08-07 23:00:05] [ERROR]: {"tipo":"url","diario":2452,"message":{"error":"Url nao existe!"}}
+[2019-08-08 23:00:05] [ERROR]: {"tipo":"url","diario":2453,"message":{"error":"Url nao existe!"}}
+[2019-08-09 23:00:04] [ERROR]: {"tipo":"command-page","diario":2453,"message":{"erro":"Aguardando o paser do diario 2453"}}
+[2019-08-10 11:00:06] [ERROR]: {"tipo":"command-page","diario":2453,"message":{"erro":"Aguardando o paser do diario 2453"}}
+[2019-08-10 23:00:06] [ERROR]: {"tipo":"url","diario":2454,"message":{"error":"Url nao existe!"}}
+[2019-08-11 11:00:05] [ERROR]: {"tipo":"url","diario":2454,"message":{"error":"Url nao existe!"}}
+[2019-08-11 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2454"}
+[2019-08-11 23:00:06] [ERROR]: {"tipo":"url","diario":2454,"message":{"error":"Url nao existe!"}}
+[2019-08-12 23:00:04] [ERROR]: {"tipo":"url","diario":2455,"message":{"error":"Url nao existe!"}}
+[2019-08-13 23:00:04] [ERROR]: {"tipo":"url","diario":2456,"message":{"error":"Url nao existe!"}}
+[2019-08-14 23:00:05] [ERROR]: {"tipo":"url","diario":2457,"message":{"error":"Url nao existe!"}}
+[2019-08-15 23:00:05] [ERROR]: {"tipo":"url","diario":2458,"message":{"error":"Url nao existe!"}}
+[2019-08-19 23:00:06] [ERROR]: {"tipo":"url","diario":2460,"message":{"error":"Url nao existe!"}}
+[2019-08-20 23:00:06] [ERROR]: {"tipo":"url","diario":2461,"message":{"error":"Url nao existe!"}}
+[2019-08-21 23:00:04] [ERROR]: {"tipo":"url","diario":2462,"message":{"error":"Url nao existe!"}}
+[2019-08-22 23:00:02] [ERROR]: {"tipo":"url","diario":2463,"message":{"error":"Url nao existe!"}}
+[2019-08-23 23:00:05] [ERROR]: {"tipo":"url","diario":2464,"message":{"error":"Url nao existe!"}}
+[2019-08-24 11:00:05] [ERROR]: {"tipo":"url","diario":2464,"message":{"error":"Url nao existe!"}}
+[2019-08-24 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2464"}
+[2019-08-24 23:00:04] [ERROR]: {"tipo":"url","diario":2464,"message":{"error":"Url nao existe!"}}
+[2019-08-25 11:00:04] [ERROR]: {"tipo":"url","diario":2464,"message":{"error":"Url nao existe!"}}
+[2019-08-25 12:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2464"}
+[2019-08-25 23:00:04] [ERROR]: {"tipo":"url","diario":2464,"message":{"error":"Url nao existe!"}}
+[2019-08-26 23:00:04] [ERROR]: {"tipo":"url","diario":2465,"message":{"error":"Url nao existe!"}}
+[2019-08-27 23:00:04] [ERROR]: {"tipo":"url","diario":2466,"message":{"error":"Url nao existe!"}}
+[2019-08-28 23:00:04] [ERROR]: {"tipo":"url","diario":2467,"message":{"error":"Url nao existe!"}}
+[2019-08-29 23:00:04] [ERROR]: {"tipo":"url","diario":2468,"message":{"error":"Url nao existe!"}}
+[2019-08-30 23:00:05] [ERROR]: {"tipo":"url","diario":2469,"message":{"error":"Url nao existe!"}}
+[2019-08-31 11:00:04] [ERROR]: {"tipo":"url","diario":2469,"message":{"error":"Url nao existe!"}}
+[2019-08-31 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2469"}
+[2019-08-31 23:00:04] [ERROR]: {"tipo":"url","diario":2469,"message":{"error":"Url nao existe!"}}
+[2019-09-01 11:00:05] [ERROR]: {"tipo":"url","diario":2469,"message":{"error":"Url nao existe!"}}
+[2019-09-01 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2469"}
+[2019-09-01 23:00:04] [ERROR]: {"tipo":"url","diario":2469,"message":{"error":"Url nao existe!"}}
+[2019-09-02 23:00:04] [ERROR]: {"tipo":"url","diario":2470,"message":{"error":"Url nao existe!"}}
+[2019-09-03 23:00:04] [ERROR]: {"tipo":"url","diario":2471,"message":{"error":"Url nao existe!"}}
+[2019-09-04 23:00:05] [ERROR]: {"tipo":"url","diario":2472,"message":{"error":"Url nao existe!"}}
+[2019-09-05 23:00:05] [ERROR]: {"tipo":"url","diario":2473,"message":{"error":"Url nao existe!"}}
+[2019-09-06 23:00:04] [ERROR]: {"tipo":"url","diario":2474,"message":{"error":"Url nao existe!"}}
+[2019-09-07 11:00:03] [ERROR]: {"tipo":"url","diario":2474,"message":{"error":"Url nao existe!"}}
+[2019-09-07 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2474"}
+[2019-09-07 23:00:03] [ERROR]: {"tipo":"url","diario":2474,"message":{"error":"Url nao existe!"}}
+[2019-09-08 11:00:05] [ERROR]: {"tipo":"url","diario":2474,"message":{"error":"Url nao existe!"}}
+[2019-09-08 12:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2474"}
+[2019-09-08 23:00:04] [ERROR]: {"tipo":"url","diario":2474,"message":{"error":"Url nao existe!"}}
+[2019-09-09 23:00:04] [ERROR]: {"tipo":"url","diario":2475,"message":{"error":"Url nao existe!"}}
+[2019-09-10 23:00:05] [ERROR]: {"tipo":"url","diario":2476,"message":{"error":"Url nao existe!"}}
+[2019-09-11 23:00:04] [ERROR]: {"tipo":"url","diario":2477,"message":{"error":"Url nao existe!"}}
+[2019-09-12 23:00:05] [ERROR]: {"tipo":"url","diario":2478,"message":{"error":"Url nao existe!"}}
+[2019-09-13 23:00:05] [ERROR]: {"tipo":"url","diario":2479,"message":{"error":"Url nao existe!"}}
+[2019-09-14 11:00:04] [ERROR]: {"tipo":"url","diario":2479,"message":{"error":"Url nao existe!"}}
+[2019-09-14 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2479"}
+[2019-09-14 23:00:05] [ERROR]: {"tipo":"url","diario":2479,"message":{"error":"Url nao existe!"}}
+[2019-09-15 11:00:05] [ERROR]: {"tipo":"url","diario":2479,"message":{"error":"Url nao existe!"}}
+[2019-09-15 12:00:05] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2479"}
+[2019-09-15 23:00:04] [ERROR]: {"tipo":"url","diario":2479,"message":{"error":"Url nao existe!"}}
+[2019-09-16 23:00:04] [ERROR]: {"tipo":"url","diario":2480,"message":{"error":"Url nao existe!"}}
+[2019-09-17 23:00:06] [ERROR]: {"tipo":"url","diario":2481,"message":{"error":"Url nao existe!"}}
+[2019-09-18 23:00:05] [ERROR]: {"tipo":"url","diario":2482,"message":{"error":"Url nao existe!"}}
+[2019-09-19 23:00:05] [ERROR]: {"tipo":"url","diario":2483,"message":{"error":"Url nao existe!"}}
+[2019-09-20 23:00:05] [ERROR]: {"tipo":"url","diario":2484,"message":{"error":"Url nao existe!"}}
+[2019-09-21 11:00:05] [ERROR]: {"tipo":"url","diario":2484,"message":{"error":"Url nao existe!"}}
+[2019-09-21 12:00:02] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2484"}
+[2019-09-21 23:00:04] [ERROR]: {"tipo":"url","diario":2484,"message":{"error":"Url nao existe!"}}
+[2019-09-22 11:00:05] [ERROR]: {"tipo":"url","diario":2484,"message":{"error":"Url nao existe!"}}
+[2019-09-22 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2484"}
+[2019-09-22 23:00:05] [ERROR]: {"tipo":"url","diario":2484,"message":{"error":"Url nao existe!"}}
+[2019-09-23 23:00:04] [ERROR]: {"tipo":"url","diario":2485,"message":{"error":"Url nao existe!"}}
+[2019-09-24 23:00:05] [ERROR]: {"tipo":"url","diario":2486,"message":{"error":"Url nao existe!"}}
+[2019-09-25 23:00:05] [ERROR]: {"tipo":"url","diario":2487,"message":{"error":"Url nao existe!"}}
+[2019-09-26 23:00:05] [ERROR]: {"tipo":"url","diario":2488,"message":{"error":"Url nao existe!"}}
+[2019-09-27 23:00:05] [ERROR]: {"tipo":"url","diario":2489,"message":{"error":"Url nao existe!"}}
+[2019-09-28 11:00:04] [ERROR]: {"tipo":"url","diario":2489,"message":{"error":"Url nao existe!"}}
+[2019-09-28 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2489"}
+[2019-09-28 23:00:05] [ERROR]: {"tipo":"url","diario":2489,"message":{"error":"Url nao existe!"}}
+[2019-09-29 11:00:05] [ERROR]: {"tipo":"url","diario":2489,"message":{"error":"Url nao existe!"}}
+[2019-09-29 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2489"}
+[2019-09-29 23:00:05] [ERROR]: {"tipo":"url","diario":2489,"message":{"error":"Url nao existe!"}}
+[2019-09-30 23:00:04] [ERROR]: {"tipo":"url","diario":2490,"message":{"error":"Url nao existe!"}}
+[2019-10-01 23:00:04] [ERROR]: {"tipo":"url","diario":2491,"message":{"error":"Url nao existe!"}}
+[2019-10-02 23:00:05] [ERROR]: {"tipo":"url","diario":2492,"message":{"error":"Url nao existe!"}}
+[2019-10-03 23:00:04] [ERROR]: {"tipo":"url","diario":2493,"message":{"error":"Url nao existe!"}}
+[2019-10-04 23:00:04] [ERROR]: {"tipo":"url","diario":2494,"message":{"error":"Url nao existe!"}}
+[2019-10-05 11:00:04] [ERROR]: {"tipo":"url","diario":2494,"message":{"error":"Url nao existe!"}}
+[2019-10-05 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2494"}
+[2019-10-05 23:00:05] [ERROR]: {"tipo":"url","diario":2494,"message":{"error":"Url nao existe!"}}
+[2019-10-06 11:00:04] [ERROR]: {"tipo":"url","diario":2494,"message":{"error":"Url nao existe!"}}
+[2019-10-06 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2494"}
+[2019-10-06 23:00:04] [ERROR]: {"tipo":"url","diario":2494,"message":{"error":"Url nao existe!"}}
+[2019-10-07 23:00:05] [ERROR]: {"tipo":"url","diario":2495,"message":{"error":"Url nao existe!"}}
+[2019-10-08 23:00:05] [ERROR]: {"tipo":"url","diario":2496,"message":{"error":"Url nao existe!"}}
+[2019-10-09 23:00:04] [ERROR]: {"tipo":"url","diario":2497,"message":{"error":"Url nao existe!"}}
+[2019-10-10 23:00:04] [ERROR]: {"tipo":"url","diario":2498,"message":{"error":"Url nao existe!"}}
+[2019-10-11 23:00:05] [ERROR]: {"tipo":"url","diario":2499,"message":{"error":"Url nao existe!"}}
+[2019-10-12 11:00:04] [ERROR]: {"tipo":"url","diario":2499,"message":{"error":"Url nao existe!"}}
+[2019-10-12 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2499"}
+[2019-10-12 23:00:05] [ERROR]: {"tipo":"url","diario":2499,"message":{"error":"Url nao existe!"}}
+[2019-10-13 11:00:04] [ERROR]: {"tipo":"url","diario":2499,"message":{"error":"Url nao existe!"}}
+[2019-10-13 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2499"}
+[2019-10-13 23:00:04] [ERROR]: {"tipo":"url","diario":2499,"message":{"error":"Url nao existe!"}}
+[2019-10-14 23:00:05] [ERROR]: {"tipo":"url","diario":2500,"message":{"error":"Url nao existe!"}}
+[2019-10-15 23:00:05] [ERROR]: {"tipo":"url","diario":2501,"message":{"error":"Url nao existe!"}}
+[2019-10-16 23:00:05] [ERROR]: {"tipo":"url","diario":2502,"message":{"error":"Url nao existe!"}}
+[2019-10-17 23:00:04] [ERROR]: {"tipo":"url","diario":2503,"message":{"error":"Url nao existe!"}}
+[2019-10-18 23:00:05] [ERROR]: {"tipo":"url","diario":2504,"message":{"error":"Url nao existe!"}}
+[2019-10-19 11:00:05] [ERROR]: {"tipo":"url","diario":2504,"message":{"error":"Url nao existe!"}}
+[2019-10-19 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2504"}
+[2019-10-19 23:00:03] [ERROR]: {"tipo":"url","diario":2504,"message":{"error":"Url nao existe!"}}
+[2019-10-20 11:00:05] [ERROR]: {"tipo":"url","diario":2504,"message":{"error":"Url nao existe!"}}
+[2019-10-20 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2504"}
+[2019-10-20 23:00:05] [ERROR]: {"tipo":"url","diario":2504,"message":{"error":"Url nao existe!"}}
+[2019-10-21 23:00:05] [ERROR]: {"tipo":"url","diario":2505,"message":{"error":"Url nao existe!"}}
+[2019-10-22 23:00:05] [ERROR]: {"tipo":"url","diario":2506,"message":{"error":"Url nao existe!"}}
+[2019-10-23 11:00:05] [ERROR]: {"tipo":"url","diario":2506,"message":{"error":"Url nao existe!"}}
+[2019-10-23 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2506"}
+[2019-10-24 11:00:04] [ERROR]: {"tipo":"command-page","diario":2506,"message":{"erro":"Aguardando o paser do diario 2506"}}
+[2019-10-24 23:00:05] [ERROR]: {"tipo":"url","diario":2507,"message":{"error":"Url nao existe!"}}
+[2019-10-25 11:00:05] [ERROR]: {"tipo":"url","diario":2507,"message":{"error":"Url nao existe!"}}
+[2019-10-25 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2507"}
+[2019-10-25 23:00:04] [ERROR]: {"tipo":"url","diario":2507,"message":{"error":"Url nao existe!"}}
+[2019-10-26 11:00:05] [ERROR]: {"tipo":"url","diario":2507,"message":{"error":"Url nao existe!"}}
+[2019-10-26 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2507"}
+[2019-10-26 23:00:05] [ERROR]: {"tipo":"url","diario":2507,"message":{"error":"Url nao existe!"}}
+[2019-10-27 11:00:04] [ERROR]: {"tipo":"url","diario":2507,"message":{"error":"Url nao existe!"}}
+[2019-10-27 12:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2507"}
+[2019-10-27 23:00:04] [ERROR]: {"tipo":"url","diario":2507,"message":{"error":"Url nao existe!"}}
+[2019-11-17 10:00:04] [ERROR]: {"tipo":"command-page","diario":2508,"message":{"erro":"Aguardando o paser do diario 2508"}}
+[2019-11-18 10:00:03] [ERROR]: {"tipo":"command-page","diario":2509,"message":{"erro":"Aguardando o paser do diario 2509"}}
+[2019-11-19 10:00:04] [ERROR]: {"tipo":"command-page","diario":2510,"message":{"erro":"Aguardando o paser do diario 2510"}}
+[2019-11-19 20:57:40] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2511"}
+[2019-11-19 22:00:24] [ERROR]: {"tipo":"command-page","diario":2515,"message":{"erro":"Aguardando o paser do diario 2515"}}
+[2019-11-19 22:49:02] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2520"}
+[2019-11-19 23:01:13] [ERROR]: {"tipo":"url","diario":2522,"message":{"error":"Url nao existe!"}}
+[2019-11-19 23:02:50] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2522"}
+[2019-11-19 23:03:21] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2522"}
+[2019-11-19 23:10:55] [ERROR]: {"tipo":"command-page","diario":2520,"message":{"erro":"Aguardando o paser do diario 2520"}}
+[2019-11-19 23:27:17] [ERROR]: {"tipo":"url","diario":2522,"message":{"error":"Url nao existe!"}}
+[2019-11-19 23:28:32] [ERROR]: {"tipo":"url","diario":2522,"message":{"error":"Url nao existe!"}}
+[2019-11-19 23:29:36] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2521"}
+[2019-11-19 23:32:01] [ERROR]: {"tipo":"url","diario":2522,"message":{"error":"Url nao existe!"}}
+[2019-11-19 23:33:14] [ERROR]: {"tipo":"command-page","diario":2521,"message":{"erro":"Aguardando o paser do diario 2521"}}
+[2019-11-19 23:33:32] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2521"}
+[2019-11-19 23:33:39] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2521"}
+[2019-11-19 23:33:41] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2521"}
+[2019-11-19 23:33:44] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2521"}
+[2019-11-19 23:33:47] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2521"}
+[2019-11-19 23:33:50] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2521"}
+[2019-11-19 23:51:11] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2522"}
+[2019-11-20 10:00:04] [ERROR]: {"tipo":"url","diario":2522,"message":{"error":"Url nao existe!"}}
+[2019-11-20 11:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2522"}
+[2019-11-21 10:00:04] [ERROR]: {"tipo":"command-page","diario":2522,"message":{"erro":"Aguardando o paser do diario 2522"}}
+[2019-11-22 10:00:03] [ERROR]: {"tipo":"command-page","diario":2523,"message":{"erro":"Aguardando o paser do diario 2523"}}
+[2019-11-23 10:00:04] [ERROR]: {"tipo":"command-page","diario":2524,"message":{"erro":"Aguardando o paser do diario 2524"}}
+[2019-11-23 22:00:05] [ERROR]: {"tipo":"url","diario":2525,"message":{"error":"Url nao existe!"}}
+[2019-11-24 10:00:05] [ERROR]: {"tipo":"url","diario":2525,"message":{"error":"Url nao existe!"}}
+[2019-11-24 11:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2525"}
+[2019-11-24 22:00:04] [ERROR]: {"tipo":"url","diario":2525,"message":{"error":"Url nao existe!"}}
+[2019-11-25 22:00:02] [ERROR]: {"tipo":"url","diario":2526,"message":{"error":"Url nao existe!"}}
+[2019-11-26 22:00:03] [ERROR]: {"tipo":"url","diario":2527,"message":{"error":"Url nao existe!"}}
+[2019-11-27 22:00:05] [ERROR]: {"tipo":"url","diario":2528,"message":{"error":"Url nao existe!"}}
+[2019-11-28 22:00:04] [ERROR]: {"tipo":"url","diario":2529,"message":{"error":"Url nao existe!"}}
+[2019-11-29 10:00:04] [ERROR]: {"tipo":"url","diario":2529,"message":{"error":"Url nao existe!"}}
+[2019-11-29 11:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2529"}
+[2019-11-30 10:00:03] [ERROR]: {"tipo":"command-page","diario":2529,"message":{"erro":"Aguardando o paser do diario 2529"}}
+[2019-11-30 22:00:04] [ERROR]: {"tipo":"url","diario":2530,"message":{"error":"Url nao existe!"}}
+[2019-12-01 10:00:05] [ERROR]: {"tipo":"url","diario":2530,"message":{"error":"Url nao existe!"}}
+[2019-12-01 11:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2530"}
+[2019-12-01 22:00:04] [ERROR]: {"tipo":"url","diario":2530,"message":{"error":"Url nao existe!"}}
+[2019-12-02 10:00:04] [ERROR]: {"tipo":"url","diario":2530,"message":{"error":"Url nao existe!"}}
+[2019-12-02 11:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2530"}
+[2019-12-03 10:00:04] [ERROR]: {"tipo":"command-page","diario":2530,"message":{"erro":"Aguardando o paser do diario 2530"}}
+[2019-12-04 10:00:04] [ERROR]: {"tipo":"command-page","diario":2531,"message":{"erro":"Aguardando o paser do diario 2531"}}
+[2019-12-05 10:00:04] [ERROR]: {"tipo":"command-page","diario":2532,"message":{"erro":"Aguardando o paser do diario 2532"}}
+[2019-12-06 10:00:04] [ERROR]: {"tipo":"command-page","diario":2533,"message":{"erro":"Aguardando o paser do diario 2533"}}
+[2019-12-07 10:00:04] [ERROR]: {"tipo":"command-page","diario":2534,"message":{"erro":"Aguardando o paser do diario 2534"}}
+[2019-12-07 22:00:05] [ERROR]: {"tipo":"url","diario":2535,"message":{"error":"Url nao existe!"}}
+[2019-12-08 10:00:04] [ERROR]: {"tipo":"url","diario":2535,"message":{"error":"Url nao existe!"}}
+[2019-12-08 11:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2535"}
+[2019-12-08 22:00:04] [ERROR]: {"tipo":"url","diario":2535,"message":{"error":"Url nao existe!"}}
+[2019-12-09 22:00:04] [ERROR]: {"tipo":"url","diario":2536,"message":{"error":"Url nao existe!"}}
+[2019-12-10 22:00:04] [ERROR]: {"tipo":"url","diario":2537,"message":{"error":"Url nao existe!"}}
+[2019-12-11 10:00:05] [ERROR]: {"tipo":"url","diario":2537,"message":{"error":"Url nao existe!"}}
+[2019-12-11 11:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2537"}
+[2019-12-12 10:00:03] [ERROR]: {"tipo":"command-page","diario":2537,"message":{"erro":"Aguardando o paser do diario 2537"}}
+[2019-12-13 10:00:03] [ERROR]: {"tipo":"command-page","diario":2538,"message":{"erro":"Aguardando o paser do diario 2538"}}
+[2019-12-14 10:00:03] [ERROR]: {"tipo":"command-page","diario":2539,"message":{"erro":"Aguardando o paser do diario 2539"}}
+[2019-12-14 22:00:04] [ERROR]: {"tipo":"url","diario":2540,"message":{"error":"Url nao existe!"}}
+[2019-12-15 10:00:05] [ERROR]: {"tipo":"url","diario":2540,"message":{"error":"Url nao existe!"}}
+[2019-12-15 11:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2540"}
+[2019-12-15 22:00:05] [ERROR]: {"tipo":"url","diario":2540,"message":{"error":"Url nao existe!"}}
+[2019-12-16 22:00:04] [ERROR]: {"tipo":"url","diario":2541,"message":{"error":"Url nao existe!"}}
+[2019-12-17 22:00:04] [ERROR]: {"tipo":"url","diario":2542,"message":{"error":"Url nao existe!"}}
+[2019-12-18 22:00:05] [ERROR]: {"tipo":"url","diario":2543,"message":{"error":"Url nao existe!"}}
+[2019-12-19 22:00:05] [ERROR]: {"tipo":"url","diario":2544,"message":{"error":"Url nao existe!"}}
+[2019-12-20 10:00:04] [ERROR]: {"tipo":"url","diario":2544,"message":{"error":"Url nao existe!"}}
+[2019-12-20 11:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2544"}
+[2019-12-21 10:00:03] [ERROR]: {"tipo":"command-page","diario":2544,"message":{"erro":"Aguardando o paser do diario 2544"}}
+[2019-12-21 22:00:04] [ERROR]: {"tipo":"url","diario":2545,"message":{"error":"Url nao existe!"}}
+[2019-12-22 10:00:05] [ERROR]: {"tipo":"url","diario":2545,"message":{"error":"Url nao existe!"}}
+[2019-12-22 11:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2545"}
+[2019-12-22 22:00:05] [ERROR]: {"tipo":"url","diario":2545,"message":{"error":"Url nao existe!"}}
+[2019-12-23 10:00:05] [ERROR]: {"tipo":"url","diario":2545,"message":{"error":"Url nao existe!"}}
+[2019-12-23 11:00:05] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2545"}
+[2019-12-24 10:00:02] [ERROR]: {"tipo":"command-page","diario":2545,"message":{"erro":"Aguardando o paser do diario 2545"}}
+[2019-12-24 22:00:05] [ERROR]: {"tipo":"url","diario":2546,"message":{"error":"Url nao existe!"}}
+[2019-12-25 10:00:04] [ERROR]: {"tipo":"url","diario":2546,"message":{"error":"Url nao existe!"}}
+[2019-12-25 11:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2546"}
+[2019-12-25 22:00:06] [ERROR]: {"tipo":"url","diario":2546,"message":{"error":"Url nao existe!"}}
+[2019-12-26 10:00:04] [ERROR]: {"tipo":"url","diario":2546,"message":{"error":"Url nao existe!"}}
+[2019-12-26 11:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2546"}
+[2019-12-27 10:00:03] [ERROR]: {"tipo":"command-page","diario":2546,"message":{"erro":"Aguardando o paser do diario 2546"}}
+[2019-12-28 10:00:04] [ERROR]: {"tipo":"command-page","diario":2547,"message":{"erro":"Aguardando o paser do diario 2547"}}
+[2019-12-28 22:00:15] [ERROR]: {"tipo":"url","diario":2548,"message":{"error":"Url nao existe!"}}
+[2019-12-29 10:00:05] [ERROR]: {"tipo":"url","diario":2548,"message":{"error":"Url nao existe!"}}
+[2019-12-29 11:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2548"}
+[2019-12-29 22:00:05] [ERROR]: {"tipo":"url","diario":2548,"message":{"error":"Url nao existe!"}}
+[2019-12-30 10:00:06] [ERROR]: {"tipo":"url","diario":2548,"message":{"error":"Url nao existe!"}}
+[2019-12-30 11:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2548"}
+[2019-12-31 10:00:03] [ERROR]: {"tipo":"command-page","diario":2548,"message":{"erro":"Aguardando o paser do diario 2548"}}
+[2019-12-31 22:00:04] [ERROR]: {"tipo":"url","diario":2549,"message":{"error":"Url nao existe!"}}
+[2020-01-01 10:00:05] [ERROR]: {"tipo":"url","diario":2549,"message":{"error":"Url nao existe!"}}
+[2020-01-01 11:00:04] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2549"}
+[2020-01-01 22:00:05] [ERROR]: {"tipo":"url","diario":2549,"message":{"error":"Url nao existe!"}}
+[2020-01-02 10:00:04] [ERROR]: {"tipo":"url","diario":2549,"message":{"error":"Url nao existe!"}}
+[2020-01-02 11:00:03] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2549"}
+[2020-01-03 10:00:04] [ERROR]: {"tipo":"command-page","diario":2549,"message":{"erro":"Aguardando o paser do diario 2549"}}
+[2020-01-04 10:00:04] [ERROR]: {"tipo":"command-page","diario":2550,"message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-04 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-04 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-05 10:00:04] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-05 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-05 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-05 22:00:18] [ERROR]: {"tipo":"url","diario":"2550","message":{"error":"Url nao existe!"}}
+[2020-01-06 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-06 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-07 10:00:03] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-07 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-07 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-08 10:00:03] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-08 11:00:05] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-08 11:00:05] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-09 10:00:03] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-09 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-09 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-10 10:00:04] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-10 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-10 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-11 10:00:03] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-11 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-11 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-12 10:00:03] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-12 11:00:05] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-12 11:00:05] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-13 10:00:04] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-13 11:00:05] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-13 11:00:05] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-14 10:00:04] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-14 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-14 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-15 10:00:04] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-15 11:00:06] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-15 11:00:06] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-16 10:00:05] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-16 11:00:05] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-16 11:00:05] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-17 10:00:04] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-17 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-17 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-18 10:00:04] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-18 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-18 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-19 10:00:03] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-19 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-19 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-20 10:00:04] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-20 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-20 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-21 10:00:04] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-21 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-21 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-22 10:00:03] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-22 11:00:05] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-22 11:00:05] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-23 10:00:03] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-23 11:00:05] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-23 11:00:05] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-24 10:00:04] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-24 11:00:05] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-24 11:00:05] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-25 10:00:04] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-25 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-25 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-26 10:00:03] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-26 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-26 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-27 10:00:04] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-27 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-27 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-28 10:00:04] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-28 11:00:05] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-28 11:00:05] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-29 10:00:04] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
+[2020-01-29 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-29 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
