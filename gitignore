@@ -1,13 +1,9 @@
-logs/*
+/logs/
 !logs/.keep
-
-pdf_domp/*
+/pdf_domp/
 !pdf_domp/.keep
-
-jsonFiles/*
+/jsonFiles/
 !jsonFiles/.keep
-
-pdfs/*
+/pdfs/
 !pdfs/.keep
-
 /keep/
