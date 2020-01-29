@@ -814,3 +814,18 @@
 [2020-01-29 11:00:04] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
 [2020-01-29 11:00:04] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
 [2020-01-29 11:00:04] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-29 13:20:54] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-29 13:20:54] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-29 13:20:54] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-29 13:32:05] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-29 13:32:05] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-29 13:32:05] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-29 13:32:34] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-29 13:32:34] [INFO]: {"tipo":"function_parser","diario":"2550","message":"sem pdfs para phaser"}
+[2020-01-29 13:32:34] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-29 14:23:10] [INFO]: {"tipo":"command-link","diario":"2550","message":"success: message: "}
+[2020-01-29 14:23:14] [INFO]: {"tipo":"parser","diario":"2550","message":"ok"}
+[2020-01-29 14:25:03] [INFO]: {"tipo":"command-link","diario":"2551","message":"success: message: "}
+[2020-01-29 14:25:03] [INFO]: {"tipo":"parser","diario":"2551","message":"ok"}
+[2020-01-29 14:26:38] [INFO]: {"tipo":"command-link","diario":"2552","message":"success: message: "}
+[2020-01-29 14:26:41] [INFO]: {"tipo":"parser","diario":"2552","message":"ok"}

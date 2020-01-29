@@ -730,3 +730,10 @@
 [2020-01-29 10:00:04] [ERROR]: {"tipo":"command-page","diario":"2550","message":{"erro":"Aguardando o paser do diario 2550"}}
 [2020-01-29 11:00:04] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
 [2020-01-29 11:00:04] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-29 13:20:55] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-29 13:20:55] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-29 13:32:06] [ERROR]: {"tipo":"paser","diario":"2550","message":null}
+[2020-01-29 13:32:06] [ERROR]: {"tipo":"processarDados","diario":"2550","message":null}
+[2020-01-29 13:32:34] [ERROR]: {"tipo":"paser","diario":"2550","message":[]}
+[2020-01-29 13:32:34] [ERROR]: {"tipo":"processarDados","diario":"2550","message":[]}
+[2020-01-29 14:24:11] [ERROR]: {"task":"domp_continuaPaser","error":"Aguardando - 2551"}

@@ -289,3 +289,6 @@
 [2019-12-28 11:00:05] [INFO]: {"tipo":"parserCount","diario":"2547","total":8}
 [2019-12-31 11:00:08] [INFO]: {"tipo":"parserCount","diario":"2548","total":39}
 [2020-01-03 11:00:05] [INFO]: {"tipo":"parserCount","diario":"2549","total":5}
+[2020-01-29 14:23:14] [INFO]: {"tipo":"parserCount","diario":"2550","total":58}
+[2020-01-29 14:25:03] [INFO]: {"tipo":"parserCount","diario":"2551","total":3}
+[2020-01-29 14:26:41] [INFO]: {"tipo":"parserCount","diario":"2552","total":39}

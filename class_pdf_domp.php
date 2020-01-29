@@ -141,7 +141,7 @@ public function parserPdfs($d){//transforma em texto o pdf
   
   global $pdf2text;
   
-  $files = glob(dirname(__FILE__).'/pdfs/*.{pdf}', GLOB_BRACE);
+  $files = glob(dirname(__FILE__).'/pdfs/*.{pdf,PDF}', GLOB_BRACE);
   $text;
   $file_dir = dirname (__FILE__) . "/logs/paser.txt";
   $contagem = 1;
@@ -165,12 +165,12 @@ public function parserPdfs($d){//transforma em texto o pdf
  }
  
  public function deleteFiles($file=''){
-  $files = glob(dirname(__FILE__).'/pdfs/*.{pdf}', GLOB_BRACE);// get all file names
+  $files = glob(dirname(__FILE__).'/pdfs/*.{pdf,PDF}', GLOB_BRACE);// get all file names
      foreach($files as $file){ // iterate files
        if(is_file($file))
          unlink($file); // delete file
      }
-  $files = glob(dirname(__FILE__).'/pdf_domp/*.{pdf}', GLOB_BRACE);// get all file names
+  $files = glob(dirname(__FILE__).'/pdf_domp/*.{pdf,PDF}', GLOB_BRACE);// get all file names
      foreach($files as $file){ // iterate files
        if(is_file($file))
          unlink($file); // delete file

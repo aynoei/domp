@@ -1,4 +1,5 @@
 <?php  
-echo dirname (__DIR__);
-echo '<br>';
-echo 'http://'.$_SERVER['HTTP_HOST'].'/';
+ $files = glob($_SERVER['DOCUMENT_ROOT'].'domp_auto/pdfs/*.{PDF,pdf}', GLOB_BRACE);
+echo '<pre>';
+var_dump($files);
+echo '</pre>';
